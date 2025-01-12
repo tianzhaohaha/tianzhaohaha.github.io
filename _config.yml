@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Qingyuan Liu"
-description              : "Research Assistant at Columbia University. Focusing on Computer Vision, Graph Neural Network and Large Language Model."
+description              : "MS in Computer Engineering at Columbia University. Focusing on Computer Vision, Graph Neural Network and Large Language Model."
 repository               : "tianzhaohaha/tianzhaohaha.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Qingyuan Liu"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "MS in Computer Engineering at Columbia University"
+  bio              : "Columbia University"
   location         : "New York, USA"
   employer         :
   pubmed           : 

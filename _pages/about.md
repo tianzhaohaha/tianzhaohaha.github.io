@@ -32,18 +32,20 @@ Previously, I graduated from [School of Computer Science & Technology](http://en
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2024 GenAI Workhop</div><img src='images/DIVID.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+[Turns Out I'm Not Real: Towards Robust Detection of AI-Generated Videos](https://arxiv.org/abs/2406.09601)
+
+**Qingyuan Liu**, Pengyuan Shi, Yun-Yun Tsai, Chengzhi Mao, and Junfeng Yang, IEEE / CVF Computer Vision and Pattern Recognition Conference (**CVPR**) Generative Models for Computer Vision Workshop, 2024
 
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
-</div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+</div> 111
+</div> 222
+
+- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2024 GenAI Workshop**
 
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
@@ -64,5 +66,5 @@ Previously, I graduated from [School of Computer Science & Technology](http://en
 
 # 🌏️ <font color="#4A708B">Visitor Map</font>
 
-<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=NdMaGhwb-9LTDJ4hxiff-LcRvQDUeyHJTqUN9kPjXi8&cl=ffffff&w=a"></script>
+<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=712&t=tt&d=NdMaGhwb-9LTDJ4hxiff-LcRvQDUeyHJTqUN9kPjXi8&co=2d78ad&cmo=f88846&cmn=ff5353&ct=ffffff'></script>
 
