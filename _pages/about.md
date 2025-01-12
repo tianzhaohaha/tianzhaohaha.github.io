@@ -73,8 +73,7 @@ Zhaobin Mo\*, Baohua Yan\*, **Qingyuan Liu\***, Kangrui Ruan and Xuan Di<br>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ITSC 2024</div><img src='images/CAL.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-[Causal Adjacency Learning for Spatiotemporal Prediction Over Graphs]
-(https://arxiv.org/abs/2411.16142)
+[Causal Adjacency Learning for Spatiotemporal Prediction Over Graphs](https://arxiv.org/abs/2411.16142)
 
 Zhaobin Mo*, **Qingyuan Liu\***, Baohua Yan, Longxiang Zhang, and Xuan Di<br>
 
