@@ -61,5 +61,5 @@ My research interest includes neural machine translation and computer vision. I 
 
 # 🌏️ <font color="#4A708B">Visitor Map</font>
 
-<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=NdMaGhwb-9LTDJ4hxiff-LcRvQDUeyHJTqUN9kPjXi8&cl=ffffff&w=a"></script>
+<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?cl=475e86&w=470&d=NdMaGhwb-9LTDJ4hxiff-LcRvQDUeyHJTqUN9kPjXi8&cl=ffffff&w=a"></script>
 
