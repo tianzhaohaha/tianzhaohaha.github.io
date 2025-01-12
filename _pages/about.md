@@ -40,11 +40,7 @@ Previously, I graduated from [School of Computer Science & Technology](http://en
 **Qingyuan Liu**, Pengyuan Shi, Yun-Yun Tsai, Chengzhi Mao, and Junfeng Yang
 
 - Developed Diffusion Reconstruction Error (DIRE) based method to detect AI-generate videos; achieved a detection accuracy of up to 93.7% for videos from their benchmark dataset of videos generated from Stable Vision Diffusion, Sora, Pika, and Gen-2.
-
 - This work was marked as the **[Columbia Engineering Research Highlight](https://www.engineering.columbia.edu/about/news/turns-out-im-not-real-detecting-ai-generated-videos)**
-
-  </div> 
-  </div> 
 
 
 
@@ -58,11 +54,6 @@ Zhaobin Mo*, **Qingyuan Liu\***, Baohua Yan, Longxiang Zhang, and Xuan Di
 - Designed the Causal Adjacency Learning (CAL) framework, enhancing model prediction performance on the ODD dataset; applied with the heuristic method which contained the correlation calculation and Condition Independence Test.
 - Achieved 14.23%, 15.49%, and 50.27% RMSE improvement in SafeGraph dataset, compared with the results based on distance, correlation, and attention matrix separately
 
-​	</div> 
-​	</div> 
-
-
-
 
 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2024 GenAI Workshop**
@@ -72,8 +63,8 @@ Zhaobin Mo*, **Qingyuan Liu\***, Baohua Yan, Longxiang Zhang, and Xuan Di
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2019.06 - 2023.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2016.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
