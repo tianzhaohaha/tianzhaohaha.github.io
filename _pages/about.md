@@ -34,7 +34,7 @@ Previously, I graduated from [School of Computer Science & Technology](http://en
 
 ## 🎬Video Detection
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">preprint</div><img src='images/DIVID.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">preprint</div><img src='images/LAVID.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [LAVID: An Agentic LVLM Framework for Diffusion-Generated Video Detection]
 ()
@@ -62,19 +62,19 @@ Previously, I graduated from [School of Computer Science & Technology](http://en
 
 ## 🚗Transportation Optimazation
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">preprint</div><img src='images/DIVID.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">preprint</div><img src='images/COUNTERFACT.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [Graph Out-of-Distribution Generalization via Counterfactual Augmentation]
 ()
 
-Zhaobin Mo*, Baohua Yan*, **Qingyuan Liu\***, Kangrui Ruan and Xuan Di<br>
+Zhaobin Mo\*, Baohua Yan\*, **Qingyuan Liu\***, Kangrui Ruan and Xuan Di<br>
 
 - Used the gradient of the counterfactual classifier to interfere with the sampling process of the diffusion model, thus generating diversified datasets. The model trained on the counterfactual dataset is expected to be more generalizable.
 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ITSC 2024</div><img src='images/DIVID.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ITSC 2024</div><img src='images/CAL.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [Causal Adjacency Learning for Spatiotemporal Prediction Over Graphs]
 (https://arxiv.org/abs/2411.16142)
@@ -93,9 +93,9 @@ Zhaobin Mo*, **Qingyuan Liu\***, Baohua Yan, Longxiang Zhang, and Xuan Di<br>
 
 
 
-# 🛠 Selected Project 
+# 📚 Selected Projects 
 
-<div class='paper-box'><div class='paper-box-image'><div><img src='images/DIVID.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/BUBBLE.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Bubble Bobble Game**<br>
@@ -107,7 +107,7 @@ Course Project of CSEE4840 Embedded Systems, CU ([Rated 1st](https://www.cs.colu
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><img src='images/DIVID.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/C4.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Research on 5G Network Slicing System and Strategy for End Users**<br>
@@ -119,7 +119,7 @@ National Second Prize (Top 3% out of 1006 teams worldwide) in C4
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><img src='images/DIVID.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/MIPS.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Microprocessor without Interlocked Pipeline Stages (MIPS) CPU Design**<br>
@@ -131,7 +131,7 @@ National Second Prize (Top 3% out of 1006 teams worldwide) in C4
 
 
 
-# 🎖 Honors and Awards
+# 🏆️ Honors and Awards
 - *2023.10* Advanced Master Research Student. 
 - *2023.8* [2024 Spring MS Honors Students](https://www.ee.columbia.edu/ms-ee-honors-program). 
 - *2023.6* [Columbia Engineering Research Highlight](https://www.engineering.columbia.edu/about/news/turns-out-im-not-real-detecting-ai-generated-videos).
