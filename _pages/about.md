@@ -25,12 +25,12 @@ My research goal is to bridge the gap between cutting-edge AI capabilities and t
 
 Previously, I graduated from [School of Computer Science & Technology](http://english.cs.hust.edu.cn/), [Huazhong University of Science and Technology](https://english.hust.edu.cn/) with a bachelor’s degree.
 
-For more details, please take a look at my **[CV](https://tianzhaohaha.github.io/CV-Liu-24.11.pdf)** !
+For more details, please take a look at my **[CV](https://tianzhaohaha.github.io/CV-Liu-24.11.pdf)** !!!
 
 
 # 🔥 News
 - *2023.07*: &nbsp;🎉🎉 Happy to be included in [2024 Spring MS Honors Students](https://www.ee.columbia.edu/ms-ee-honors-program)!
-- *2023.06*: &nbsp;🎉🎉 My research on AI-Generated Video Detection **[*DIVID*](https://arxiv.org/abs/2406.09601)** was marked as [Columbia Engineering Research Highlight](https://www.engineering.columbia.edu/about/news/turns-out-im-not-real-detecting-ai-generated-videos)! 
+- *2023.06*: &nbsp;🎉🎉 My research on AI-Generated Video Detection **[*DIVID*](https://arxiv.org/abs/2406.09601)** was marked as [**Columbia Engineering Research Highlight**](https://www.engineering.columbia.edu/about/news/turns-out-im-not-real-detecting-ai-generated-videos)! 
 
 # 📝 Publications 
 
@@ -44,7 +44,7 @@ For more details, please take a look at my **[CV](https://tianzhaohaha.github.io
 
 **Qingyuan Liu**, Yun-Yun Tsai, Ruijian Zha, Pengyuan Shi, Victoria Li and Junfeng Yang<br>
 
-- Designed an agentic framework LAVID that leverage Large Vision Language Models (LVLMs) in detecting AI-generated videos. The LVLMs will call external tools to extract additional information from the video to facilitate themselves in the detection.
+- Designed an agentic framework **LAVID** that leverage Large Vision Language Models (LVLMs) in detecting AI-generated videos. The LVLMs will call external tools to extract additional information from the video to facilitate themselves in the detection.
 - Evaluation results show LAVID improves F1 score by 6.2% to 30.2% over the top baseline on the comprehensive dataset across four SOTA LVLMs.
 
 </div>
@@ -56,7 +56,7 @@ For more details, please take a look at my **[CV](https://tianzhaohaha.github.io
 
 **Qingyuan Liu**, Pengyuan Shi, Yun-Yun Tsai, Chengzhi Mao, and Junfeng Yang<br>
 
-- Developed Diffusion Reconstruction Error (DIRE) based method to detect AI-generate videos; achieved a detection accuracy of up to 93.7% for videos from their benchmark dataset of videos generated from Stable Vision Diffusion, Sora, Pika, and Gen-2.
+- Developed Diffusion Reconstruction Error (DIRE) based method **DIVID** to detect AI-generate videos; achieved a detection accuracy of up to 93.7% for videos from their benchmark dataset of videos generated from Stable Vision Diffusion, Sora, Pika, and Gen-2.
 - This work was marked as the **[Columbia Engineering Research Highlight](https://www.engineering.columbia.edu/about/news/turns-out-im-not-real-detecting-ai-generated-videos)**.
 
 </div>
@@ -100,6 +100,8 @@ Zhaobin Mo*, **Qingyuan Liu\***, Baohua Yan, Longxiang Zhang, and Xuan Di<br>
 
 **Bubble Bobble Game**<br>
 
+[Report](https://www.cs.columbia.edu/~sedwards/classes/2024/4840-spring/reports/Bubble-Bobble-report.pdf) | [Presentation](https://www.cs.columbia.edu/~sedwards/classes/2024/4840-spring/reports/Bubble-Bobble-presentation.pdf)
+
 Course Project of CSEE4840 Embedded Systems, CU ([Rated 1st](https://www.cs.columbia.edu/~sedwards/classes/2024/4840-spring/index.html))
 
 - Designed and implemented bubble bobble game on an embedded system utilizing both the ARM CPU and the FPGA on the DE1-SoC, with a focus on efficient video and audio processing. The system is based on line buffer, integrating various hardware inputs of VGA, Game Controller, Audio Jack, and Keyboard.
@@ -112,6 +114,8 @@ Course Project of CSEE4840 Embedded Systems, CU ([Rated 1st](https://www.cs.colu
 
 **Research on 5G Network Slicing System and Strategy for End Users**<br>
 
+[Report](https://tianzhaohaha.github.io/作品设计文档.pdf) | [Presentation](https://tianzhaohaha.github.io/面向终端用户的5G切片系统及策略研究_演示PPT.pptx)
+
 National Second Prize (Top 3% out of 1006 teams worldwide) in C4
 
 - Applied Reinforcement Learning method to optimize network slicing strategy; tested strategy with 12 cellphones, increasing network throughput by 69.4% and document transfer efficiency by 82.2%.
@@ -123,6 +127,8 @@ National Second Prize (Top 3% out of 1006 teams worldwide) in C4
 <div class='paper-box-text' markdown="1">
 
 **Microprocessor without Interlocked Pipeline Stages (MIPS) CPU Design**<br>
+
+[Report](https://tianzhaohaha.github.io/CSXJ1901_U201911111_刘庆远_硬件综合训练课程设计报告.pdf)
 
 - Designed a CPU from the scratch with MIPS framework on the Logisim platform; Practical structures have been integrated here such as Pipeline Stalling and Brach History table.
 
