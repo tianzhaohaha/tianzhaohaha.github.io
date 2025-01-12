@@ -21,7 +21,7 @@ redirect_from:
 
 Hi! I am Qingyuan Liu(刘 庆远), a Master Student in [Computer Engineering]() at the [Columbia University](). 
 
-My research goal is to bridge the gap between cutting-edge AI capabilities and their responsible applications, specifically by building **trustworthy AI systems** that integrate innovative frameworks, augmented data, and enhanced interpretability. My current research focus on AI-Generated Video Detection and Generalizable and Robust Graph Machine Learning.
+My research goal is to bridge the gap between cutting-edge AI capabilities and their responsible applications, specifically by building **trustworthy AI systems**. My current research focus on AI-Generated Video Detection and Generalizable Graph Machine Learning. I am working closely with Prof. [Junfeng Yang](https://www.cs.columbia.edu/~junfeng/) and Prof. [Sharon Di](https://www.engineering.columbia.edu/faculty/sharon-di) at columbia university.
 
 Previously, I graduated from [School of Computer Science & Technology](http://english.cs.hust.edu.cn/), [Huazhong University of Science and Technology](https://english.hust.edu.cn/) with a bachelor’s degree.
 
@@ -32,9 +32,20 @@ Previously, I graduated from [School of Computer Science & Technology](http://en
 
 # 📝 Publications 
 
+### 🎬Video Detection
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">preprint</div><img src='images/DIVID.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+[LAVID: An Agentic LVLM Framework for Diffusion-Generated Video Detection]
+()
 
-## 
+**Qingyuan Liu**, Yun-Yun Tsai, Ruijian Zha, Pengyuan Shi, Victoria Li and Junfeng Yang<br>
+
+- Designed an agentic framework LAVID that leverage Large Vision Language Models (LVLMs) in detecting AI-generated videos. The LVLMs will call external tools to extract additional information from the video to facilitate themselves in the detection.
+- Evaluation results show LAVID improves F1 score by 6.2% to 30.2% over the top baseline on the comprehensive dataset across four SOTA LVLMs.
+
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2024 GenAI Workshop</div><img src='images/DIVID.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -44,7 +55,21 @@ Previously, I graduated from [School of Computer Science & Technology](http://en
 **Qingyuan Liu**, Pengyuan Shi, Yun-Yun Tsai, Chengzhi Mao, and Junfeng Yang<br>
 
 - Developed Diffusion Reconstruction Error (DIRE) based method to detect AI-generate videos; achieved a detection accuracy of up to 93.7% for videos from their benchmark dataset of videos generated from Stable Vision Diffusion, Sora, Pika, and Gen-2.
-- This work was marked as the **[Columbia Engineering Research Highlight](https://www.engineering.columbia.edu/about/news/turns-out-im-not-real-detecting-ai-generated-videos)**
+- This work was marked as the **[Columbia Engineering Research Highlight](https://www.engineering.columbia.edu/about/news/turns-out-im-not-real-detecting-ai-generated-videos)**.
+
+</div>
+</div>
+
+### 🚗Transportation Optimazation
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">preprint</div><img src='images/DIVID.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+[Graph Out-of-Distribution Generalization via Counterfactual Augmentation]
+()
+
+Zhaobin Mo*, Baohua Yan*, **Qingyuan Liu\***, Kangrui Ruan and Xuan Di<br>
+
+- Used the gradient of the counterfactual classifier to interfere with the sampling process of the diffusion model, thus generating diversified datasets. The model trained on the counterfactual dataset is expected to be more generalizable.
 
 </div>
 </div>
@@ -62,24 +87,55 @@ Zhaobin Mo*, **Qingyuan Liu\***, Baohua Yan, Longxiang Zhang, and Xuan Di<br>
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">GRL</div><img src='images/DIVID.png' alt="sym" width="100%"></div></div>
+### 🔍Other
+
+- [Accurate face swap using cycleGAN](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/12303/2642855/Accurate-face-swap-using-cycleGAN/10.1117/12.2642855.short), **Qingyuan Liu**, Yuxuan Zhou, and Shuai Bao, Proc. SPIE 12303, International Conference on Cloud Computing, Internet of Things, and Computer Applications (**CICA**), 2022
+
+
+
+# 🛠 Selected Project 
+
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/DIVID.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-[First PWV Retrieval using MERSI-LL onboard FY-3E and Cross Validation with Co-platform Occultation and Ground GNSS](https://doi.org/10.1029/2024GL108681)
 
+**Bubble Bobble Game**<br>
 
-Nan Jiang†, **Yuhao Wu†**, Song Li, Yan Xu#, et al., 2024. *Geophysical Research Letters*. 51, e2024GL108681. (JCR Q1, IF=5.3).<br>
+Course Project of CSEE4840 Embedded Systems, CU ([Rated 1st](https://www.cs.columbia.edu/~sedwards/classes/2024/4840-spring/index.html))
 
-- Here, we carry out the PWV retrieval using the MERSI-LL sensor onboard the FY-3E satellite for the first time.
-- For the results against ground-based GNSS, the total accuracy shows an RMSE of 2.69-3.36 mm as the clouds increase, and correlation coefficients higher than 0.95.
+- Designed and implemented bubble bobble game on an embedded system utilizing both the ARM CPU and the FPGA on the DE1-SoC, with a focus on efficient video and audio processing. The system is based on line buffer, integrating various hardware inputs of VGA, Game Controller, Audio Jack, and Keyboard.
 
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2024 GenAI Workshop**
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/DIVID.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Research on 5G Network Slicing System and Strategy for End Users**<br>
+
+National Second Prize (Top 3% out of 1006 teams worldwide) in C4
+
+- Applied Reinforcement Learning method to optimize network slicing strategy; tested strategy with 12 cellphones, increasing network throughput by 69.4% and document transfer efficiency by 82.2%.
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/DIVID.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Microprocessor without Interlocked Pipeline Stages (MIPS) CPU Design**<br>
+
+- Designed a CPU from the scratch with MIPS framework on the Logisim platform; Practical structures have been integrated here such as Pipeline Stalling and Brach History table.
+
+</div>
+</div>
+
+
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2023.10* Advanced Master Research Student. 
+- *2023.8* [2024 Spring MS Honors Students](https://www.ee.columbia.edu/ms-ee-honors-program). 
+- *2023.6* [Columbia Engineering Research Highlight](https://www.engineering.columbia.edu/about/news/turns-out-im-not-real-detecting-ai-generated-videos).
+- *2021.10* National Second Prize in the China Collegiate Computing Contest-Network Technology Challenge (C4). 
 
 # 📖 Educations
 - *2023.09 - present*, Columbia University, New York, USA
