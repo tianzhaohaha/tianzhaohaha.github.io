@@ -95,7 +95,7 @@ Zhaobin Mo*, **Qingyuan Liu\***, Baohua Yan, Longxiang Zhang, and Xuan Di<br>
 
 # 📚 Selected Projects 
 
-<div class='paper-box'><div class='paper-box-image'><div><img src='images/BUBBLE.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/BUBBLE.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Bubble Bobble Game**<br>
