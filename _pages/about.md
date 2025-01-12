@@ -34,7 +34,6 @@ Previously, I graduated from [School of Computer Science & Technology](http://en
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2024 GenAI Workhop</div><img src='images/DIVID.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-
 [Turns Out I'm Not Real: Towards Robust Detection of AI-Generated Videos](https://arxiv.org/abs/2406.09601)
 
 **Qingyuan Liu**, Pengyuan Shi, Yun-Yun Tsai, Chengzhi Mao, and Junfeng Yang
@@ -46,7 +45,6 @@ Previously, I graduated from [School of Computer Science & Technology](http://en
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ITSC 2024</div><img src='images/DIVID.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-
 [Causal Adjacency Learning for Spatiotemporal Prediction Over Graphs](https://arxiv.org/abs/2411.16142)
 
 Zhaobin Mo*, **Qingyuan Liu\***, Baohua Yan, Longxiang Zhang, and Xuan Di
