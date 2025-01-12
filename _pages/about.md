@@ -36,8 +36,11 @@ Previously, I graduated from [School of Computer Science & Technology](http://en
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">preprint</div><img src='images/LAVID.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-[LAVID: An Agentic LVLM Framework for Diffusion-Generated Video Detection]
-()
+[LAVID: An Agentic LVLM Framework for Diffusion-Generated Video Detection]()
+
+
+
+[LAVID: An Agentic LVLM Framework for Diffusion-Generated Video Detection]()
 
 **Qingyuan Liu**, Yun-Yun Tsai, Ruijian Zha, Pengyuan Shi, Victoria Li and Junfeng Yang<br>
 
