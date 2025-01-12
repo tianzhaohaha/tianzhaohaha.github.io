@@ -34,6 +34,8 @@ For more details, please take a look at my [CV](https://tianzhaohaha.github.io/C
 
 # 📝 Publications 
 
+> (*: equal contribution)
+
 ## 🎬Video Detection
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">preprint</div><img src='images/LAVID.png' alt="sym" width="100%"></div></div>
