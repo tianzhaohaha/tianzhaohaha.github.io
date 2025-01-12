@@ -41,12 +41,33 @@ Previously, I graduated from [School of Computer Science & Technology](http://en
 
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 
-- Developed Diffusion Reconstruction Error (DIRE) based method to detect AI-generate videos; applied video generation model as reconstruction model of video DIRE which took temporal information into account; achieved a detection accuracy of up to 93.7% for videos from their benchmark dataset of videos generated from Stable Vision Diffusion, Sora, Pika, and Gen-2.
+- Developed Diffusion Reconstruction Error (DIRE) based method to detect AI-generate videos; achieved a detection accuracy of up to 93.7% for videos from their benchmark dataset of videos generated from Stable Vision Diffusion, Sora, Pika, and Gen-2.
 
 - This work was marked as the ***[Columbia Engineering Research Highlight](https://www.engineering.columbia.edu/about/news/turns-out-im-not-real-detecting-ai-generated-videos)\***
 
   </div> 
   </div> 
+
+# 
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ITSC 2024</div><img src='images/DIVID.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Causal Adjacency Learning for Spatiotemporal Prediction Over Graphs](https://arxiv.org/abs/2411.16142)
+
+Zhaobin Mo*, **Qingyuan Liu\***, Baohua Yan, Longxiang Zhang, and Xuan Di
+
+[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+
+- Developed Diffusion Reconstruction Error (DIRE) based method to detect AI-generate videos; applied video generation model as reconstruction model of video DIRE which took temporal information into account; achieved a detection accuracy of up to 93.7% for videos from their benchmark dataset of videos generated from Stable Vision Diffusion, Sora, Pika, and Gen-2.
+- This work was marked as the ***[Columbia Engineering Research Highlight](http
+
+​	</div> 
+​	</div> 
+
+
+
+
 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2024 GenAI Workshop**
 
