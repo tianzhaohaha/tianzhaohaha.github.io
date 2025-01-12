@@ -37,11 +37,11 @@ Previously, I graduated from [School of Computer Science & Technology](http://en
 
 [Turns Out I'm Not Real: Towards Robust Detection of AI-Generated Videos](https://arxiv.org/abs/2406.09601)
 
-**Qingyuan Liu**, Pengyuan Shi, Yun-Yun Tsai, Chengzhi Mao, and Junfeng Yang, IEEE / CVF Computer Vision and Pattern Recognition Conference (**CVPR**) Generative Models for Computer Vision Workshop, 2024
+**Qingyuan Liu**, Pengyuan Shi, Yun-Yun Tsai, Chengzhi Mao, and Junfeng Yang
 
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 
-- Developed Diffusion Reconstruction Error (DIRE) based method to detect AI-generate videos; applied video generation model as reconstruction model of video DIRE which took temporal information into account.
+- Developed Diffusion Reconstruction Error (DIRE) based method to detect AI-generate videos; applied video generation model as reconstruction model of video DIRE which took temporal information into account; achieved a detection accuracy of up to 93.7% for videos from their benchmark dataset of videos generated from Stable Vision Diffusion, Sora, Pika, and Gen-2.
 
 - This work was marked as the ***[Columbia Engineering Research Highlight](https://www.engineering.columbia.edu/about/news/turns-out-im-not-real-detecting-ai-generated-videos)\***
 
