@@ -19,7 +19,7 @@ redirect_from:
 
 # 🙋‍♂️ <font color="#4A708B">About Me</font>
 
-I am a Master Student in [Computer Engineering]() at the [Columbia University](). 
+Hi! I am Qingyuan Liu(刘 庆远), a Master Student in [Computer Engineering]() at the [Columbia University](). 
 
 My research goal is to bridge the gap between cutting-edge AI capabilities and their responsible applications, specifically by building **trustworthy AI systems** that integrate innovative frameworks, augmented data, and enhanced interpretability. My current research focus on AI-Generated Video Detection and Generalizable and Robust Graph Machine Learning.
 
@@ -42,8 +42,11 @@ Previously, I graduated from [School of Computer Science & Technology](http://en
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 
 - Developed Diffusion Reconstruction Error (DIRE) based method to detect AI-generate videos; applied video generation model as reconstruction model of video DIRE which took temporal information into account.
-</div> 
-</div> 222
+
+- This work was marked as the ***[Columbia Engineering Research Highlight](https://www.engineering.columbia.edu/about/news/turns-out-im-not-real-detecting-ai-generated-videos)\***
+
+  </div> 
+  </div> 
 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2024 GenAI Workshop**
 
