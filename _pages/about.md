@@ -100,7 +100,7 @@ Zhaobin Mo*, **Qingyuan Liu\***, Baohua Yan, Longxiang Zhang, and Xuan Di<br>
 
 **Bubble Bobble Game**<br>
 
-[Report](https://www.cs.columbia.edu/~sedwards/classes/2024/4840-spring/reports/Bubble-Bobble-report.pdf) | [Presentation](https://www.cs.columbia.edu/~sedwards/classes/2024/4840-spring/reports/Bubble-Bobble-presentation.pdf)
+[Report](https://www.cs.columbia.edu/~sedwards/classes/2024/4840-spring/reports/Bubble-Bobble-report.pdf) \| [Presentation](https://www.cs.columbia.edu/~sedwards/classes/2024/4840-spring/reports/Bubble-Bobble-presentation.pdf)
 
 Course Project of CSEE4840 Embedded Systems, CU ([Rated 1st](https://www.cs.columbia.edu/~sedwards/classes/2024/4840-spring/index.html))
 
@@ -114,7 +114,7 @@ Course Project of CSEE4840 Embedded Systems, CU ([Rated 1st](https://www.cs.colu
 
 **Research on 5G Network Slicing System and Strategy for End Users**<br>
 
-[Report](https://tianzhaohaha.github.io/files/作品设计文档.pdf) | [Presentation](https://tianzhaohaha.github.io/files/面向终端用户的5G切片系统及策略研究_演示PPT.pptx)
+[Report](https://tianzhaohaha.github.io/files/作品设计文档.pdf) \| [Presentation](https://tianzhaohaha.github.io/files/面向终端用户的5G切片系统及策略研究_演示PPT.pptx)
 
 National Second Prize (Top 3% out of 1006 teams worldwide) in C4
 
