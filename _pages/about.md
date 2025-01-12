@@ -25,7 +25,7 @@ My research goal is to bridge the gap between cutting-edge AI capabilities and t
 
 Previously, I graduated from [School of Computer Science & Technology](http://english.cs.hust.edu.cn/), [Huazhong University of Science and Technology](https://english.hust.edu.cn/) with a bachelor’s degree.
 
-For more details, please take a look at my **[CV](https://tianzhaohaha.github.io/CV-Liu-24.11.pdf)** !!!
+For more details, please take a look at my **[CV](https://tianzhaohaha.github.io/files/CV-Liu-24.11.pdf)** !!!
 
 
 # 🔥 News
@@ -114,7 +114,7 @@ Course Project of CSEE4840 Embedded Systems, CU ([Rated 1st](https://www.cs.colu
 
 **Research on 5G Network Slicing System and Strategy for End Users**<br>
 
-[Report](https://tianzhaohaha.github.io/作品设计文档.pdf) | [Presentation](https://tianzhaohaha.github.io/面向终端用户的5G切片系统及策略研究_演示PPT.pptx)
+[Report](https://tianzhaohaha.github.io/files/作品设计文档.pdf) | [Presentation](https://tianzhaohaha.github.io/files/面向终端用户的5G切片系统及策略研究_演示PPT.pptx)
 
 National Second Prize (Top 3% out of 1006 teams worldwide) in C4
 
@@ -128,7 +128,7 @@ National Second Prize (Top 3% out of 1006 teams worldwide) in C4
 
 **Microprocessor without Interlocked Pipeline Stages (MIPS) CPU Design**<br>
 
-[Report](https://tianzhaohaha.github.io/CSXJ1901_U201911111_刘庆远_硬件综合训练课程设计报告.pdf)
+[Report](https://tianzhaohaha.github.io/files/CSXJ1901_U201911111_刘庆远_硬件综合训练课程设计报告.pdf)
 
 - Designed a CPU from the scratch with MIPS framework on the Logisim platform; Practical structures have been integrated here such as Pipeline Stalling and Brach History table.
 
