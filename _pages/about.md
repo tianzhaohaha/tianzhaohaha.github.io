@@ -38,10 +38,6 @@ Previously, I graduated from [School of Computer Science & Technology](http://en
 <div class='paper-box-text' markdown="1">
 [LAVID: An Agentic LVLM Framework for Diffusion-Generated Video Detection]()
 
-
-
-[LAVID: An Agentic LVLM Framework for Diffusion-Generated Video Detection]()
-
 **Qingyuan Liu**, Yun-Yun Tsai, Ruijian Zha, Pengyuan Shi, Victoria Li and Junfeng Yang<br>
 
 - Designed an agentic framework LAVID that leverage Large Vision Language Models (LVLMs) in detecting AI-generated videos. The LVLMs will call external tools to extract additional information from the video to facilitate themselves in the detection.
@@ -52,8 +48,7 @@ Previously, I graduated from [School of Computer Science & Technology](http://en
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2024 GenAI Workshop</div><img src='images/DIVID.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-[Turns Out I'm Not Real: Towards Robust Detection of AI-Generated Videos]
-(https://arxiv.org/abs/2406.09601)
+[Turns Out I'm Not Real: Towards Robust Detection of AI-Generated Videos](https://arxiv.org/abs/2406.09601)
 
 **Qingyuan Liu**, Pengyuan Shi, Yun-Yun Tsai, Chengzhi Mao, and Junfeng Yang<br>
 
@@ -67,8 +62,7 @@ Previously, I graduated from [School of Computer Science & Technology](http://en
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">preprint</div><img src='images/COUNTERFACT.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-[Graph Out-of-Distribution Generalization via Counterfactual Augmentation]
-()
+[Graph Out-of-Distribution Generalization via Counterfactual Augmentation]()
 
 Zhaobin Mo\*, Baohua Yan\*, **Qingyuan Liu\***, Kangrui Ruan and Xuan Di<br>
 
