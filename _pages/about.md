@@ -32,7 +32,7 @@ Previously, I graduated from [School of Computer Science & Technology](http://en
 
 # 📝 Publications 
 
-### 🎬Video Detection
+## 🎬Video Detection
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">preprint</div><img src='images/DIVID.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -60,7 +60,7 @@ Previously, I graduated from [School of Computer Science & Technology](http://en
 </div>
 </div>
 
-### 🚗Transportation Optimazation
+## 🚗Transportation Optimazation
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">preprint</div><img src='images/DIVID.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -87,7 +87,7 @@ Zhaobin Mo*, **Qingyuan Liu\***, Baohua Yan, Longxiang Zhang, and Xuan Di<br>
 </div>
 </div>
 
-### 🔍Other
+## 🔍Other
 
 - [Accurate face swap using cycleGAN](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/12303/2642855/Accurate-face-swap-using-cycleGAN/10.1117/12.2642855.short), **Qingyuan Liu**, Yuxuan Zhou, and Shuai Bao, Proc. SPIE 12303, International Conference on Cloud Computing, Internet of Things, and Computer Applications (**CICA**), 2022
 
