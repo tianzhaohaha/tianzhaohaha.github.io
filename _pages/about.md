@@ -25,6 +25,8 @@ My research goal is to bridge the gap between cutting-edge AI capabilities and t
 
 Previously, I graduated from [School of Computer Science & Technology](http://english.cs.hust.edu.cn/), [Huazhong University of Science and Technology](https://english.hust.edu.cn/) with a bachelor’s degree.
 
+For more details, please take a look at my [CV](https://tianzhaohaha.github.io/CV-Liu-24.11.pdf) !
+
 
 # 🔥 News
 - *2023.07*: &nbsp;🎉🎉 Happy to be included in [2024 Spring MS Honors Students](https://www.ee.columbia.edu/ms-ee-honors-program)!
