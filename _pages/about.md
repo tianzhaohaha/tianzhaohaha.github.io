@@ -25,12 +25,12 @@ My research goal is to bridge the gap between cutting-edge AI capabilities and t
 
 Previously, I graduated from [School of Computer Science & Technology](http://english.cs.hust.edu.cn/), [Huazhong University of Science and Technology](https://english.hust.edu.cn/) with a bachelor’s degree.
 
-For more details, please take a look at my [CV](https://tianzhaohaha.github.io/CV-Liu-24.11.pdf) !
+For more details, please take a look at my **[CV](https://tianzhaohaha.github.io/CV-Liu-24.11.pdf)** !
 
 
 # 🔥 News
 - *2023.07*: &nbsp;🎉🎉 Happy to be included in [2024 Spring MS Honors Students](https://www.ee.columbia.edu/ms-ee-honors-program)!
-- *2023.06*: &nbsp;🎉🎉 My research on AI-Generated Video Detection **[DIVID](https://arxiv.org/abs/2406.09601)** was marked as [Columbia Engineering Research Highlight](https://www.engineering.columbia.edu/about/news/turns-out-im-not-real-detecting-ai-generated-videos)! 
+- *2023.06*: &nbsp;🎉🎉 My research on AI-Generated Video Detection **[*DIVID*](https://arxiv.org/abs/2406.09601)** was marked as [Columbia Engineering Research Highlight](https://www.engineering.columbia.edu/about/news/turns-out-im-not-real-detecting-ai-generated-videos)! 
 
 # 📝 Publications 
 
