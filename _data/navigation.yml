@@ -9,6 +9,9 @@ main:
   - title: "Publications"
     url: "/#-publications"
 
+  - title: "Selected Projects"
+    url: "/#-selected-projects"
+
   - title: "Honors and Awards"
     url: "/#-honors-and-awards"
 
@@ -17,7 +20,7 @@ main:
 
   - title: "Visitor map"
     url: "/#-visitor-map"
-    
+
   - title: "CV"
     url: "./CV-Liu-24.11.pdf"
   # - title: "Invited Talks"

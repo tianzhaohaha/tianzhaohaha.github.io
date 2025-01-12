@@ -91,7 +91,7 @@ Zhaobin Mo*, **Qingyuan Liu\***, Baohua Yan, Longxiang Zhang, and Xuan Di<br>
 
 - [Accurate face swap using cycleGAN](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/12303/2642855/Accurate-face-swap-using-cycleGAN/10.1117/12.2642855.short), **Qingyuan Liu**, Yuxuan Zhou, and Shuai Bao, Proc. SPIE 12303, International Conference on Cloud Computing, Internet of Things, and Computer Applications (**CICA**), 2022
 
-
+<span class='anchor' id='--selected-projects'></span>
 
 # 📚 Selected Projects 
 
@@ -135,7 +135,7 @@ National Second Prize (Top 3% out of 1006 teams worldwide) in C4
 </div>
 </div>
 
-
+<span class='anchor' id='-honors-and-awards'></span>
 
 # 🏆️ Honors and Awards
 - *2023.10* Advanced Master Research Student. 
@@ -143,12 +143,14 @@ National Second Prize (Top 3% out of 1006 teams worldwide) in C4
 - *2023.6* [Columbia Engineering Research Highlight](https://www.engineering.columbia.edu/about/news/turns-out-im-not-real-detecting-ai-generated-videos).
 - *2021.10* National Second Prize in the China Collegiate Computing Contest-Network Technology Challenge (C4). 
 
+<span class='anchor' id='-educations'></span>
+
 # 📖 Educations
 - *2023.09 - present*, Columbia University, New York, USA
 - *2019.09 - 2023.06*, Huazhong University of Science and Technololgy, Wuhan, China
 - *2016.09 - 2019.06*, Tianjin Xinhua High School , Tianjin, China
 
-
+<span class='anchor' id='-visitor-map'></span>
 
 # 🌏️ <font color="#4A708B">Visitor Map</font>
 
