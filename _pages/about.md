@@ -153,5 +153,5 @@ National Second Prize (Top 3% out of 1006 teams worldwide) in C4
 
 # 🌏️ <font color="#4A708B">Visitor Map</font>
 
-<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=712&t=tt&d=NdMaGhwb-9LTDJ4hxiff-LcRvQDUeyHJTqUN9kPjXi8&co=2d78ad&cmo=f88846&cmn=ff5353&ct=ffffff'></script>
+<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=712&t=tt&d=NdMaGhwb-9LTDJ4hxiff-LcRvQDUeyHJTqUN9kPjXi8&cmn=ff5454&cmo=ffac60'></script>
 
