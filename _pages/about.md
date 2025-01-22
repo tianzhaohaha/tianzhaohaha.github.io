@@ -19,7 +19,7 @@ redirect_from:
 
 # 🙋‍♂️ <font color="#4A708B">About Me</font>
 
-Hi! I am Qingyuan Liu(刘 庆远), a Master Student in [Computer Engineering]() at the [Columbia University](). 
+Hi! I am Qingyuan Liu(刘 庆远), a Master Student in [Computer Engineering](https://compeng.columbia.edu/) at the [Columbia University](https://www.columbia.edu/). 
 
 My research goal is to bridge the gap between cutting-edge AI capabilities and their responsible applications, specifically by building **trustworthy AI systems**. My current research focus on AI-Generated Video Detection and Generalizable Graph Machine Learning. I am working closely with Prof. [Junfeng Yang](https://www.cs.columbia.edu/~junfeng/) and Prof. [Sharon Di](https://www.engineering.columbia.edu/faculty/sharon-di) at columbia university.
 
@@ -41,7 +41,6 @@ Previously, I graduated from [School of Computer Science & Technology](http://en
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">preprint</div><img src='images/LAVID.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [LAVID: An Agentic LVLM Framework for Diffusion-Generated Video Detection]()
-
 **Qingyuan Liu**, Yun-Yun Tsai, Ruijian Zha, Pengyuan Shi, Victoria Li and Junfeng Yang<br>
 
 - Designed an agentic framework **LAVID** that leverage Large Vision Language Models (LVLMs) in detecting AI-generated videos. The LVLMs will call external tools to extract additional information from the video to facilitate themselves in the detection.
@@ -146,9 +145,9 @@ National Second Prize (Top 3% out of 1006 teams worldwide) in C4
 <span class='anchor' id='-educations'></span>
 
 # 📖 Educations
-- *2023.09 - present*, Columbia University, New York, USA
-- *2019.09 - 2023.06*, Huazhong University of Science and Technololgy, Wuhan, China
-- *2016.09 - 2019.06*, Tianjin Xinhua High School , Tianjin, China
+- *2023.09 - present*, [Columbia University](https://www.columbia.edu/), New York, USA
+- *2019.09 - 2023.06*, [Huazhong University of Science and Technology](https://english.hust.edu.cn/), Wuhan, China
+- *2016.09 - 2019.06*, [Tianjin Xinhua High School](https://zh.wikipedia.org/wiki/%E5%A4%A9%E6%B4%A5%E5%B8%82%E6%96%B0%E5%8D%8E%E4%B8%AD%E5%AD%A6), Tianjin, China
 
 <span class='anchor' id='-visitor-map'></span>
 
