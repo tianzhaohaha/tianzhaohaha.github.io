@@ -42,10 +42,11 @@ Previously, I received my Bachelor's degree from the School of Computer Science 
 
 ## 🎬AI-Generated Video Detection
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">preprint</div><img src='images/reveal_iccv-lavid_teaser.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">preprint</div><img src='images/reveal_iccv-lavid_teaser.png' alt="sym" style="width: 100%; height: 160px; object-fit: cover;"></div></div>
 <div class='paper-box-text' markdown="1">
 [LAVID: An Agentic LVLM Framework for Diffusion-Generated Video Detection](https://arxiv.org/abs/2502.14994)
 **Qingyuan Liu**, Yun-Yun Tsai, Ruijian Zha, Pengyuan Shi, Victoria Li and Junfeng Yang<br>
+
 
 
 - Designed an agentic framework **LAVID** that leverage Large Vision Language Models (LVLMs) in detecting AI-generated videos. The LVLMs will call external tools to extract additional information from the video to facilitate themselves in the detection.
@@ -54,9 +55,10 @@ Previously, I received my Bachelor's degree from the School of Computer Science 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2024 GenAI Workshop</div><img src='images/DIVID.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2024 GenAI Workshop</div><img src='images/DIVID.png' alt="sym" style="width: 100%; height: 160px; object-fit: cover;"></div></div>
 <div class='paper-box-text' markdown="1">
 [Turns Out I'm Not Real: Towards Robust Detection of AI-Generated Videos](https://arxiv.org/abs/2406.09601)
+
 
 **Qingyuan Liu**, Pengyuan Shi, Yun-Yun Tsai, Chengzhi Mao, and Junfeng Yang<br>
 
@@ -68,9 +70,10 @@ Previously, I received my Bachelor's degree from the School of Computer Science 
 
 ## 🚗Controllable Diffusion Generation
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">preprint</div><img src='images/COUNTERFACT.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">preprint</div><img src='images/COUNTERFACT.png' alt="sym" style="width: 100%; height: 160px; object-fit: cover;"></div></div>
 <div class='paper-box-text' markdown="1">
 [Graph Out-of-Distribution Generalization via Counterfactual Augmentation]()
+
 
 Zhaobin Mo\*, Baohua Yan\*, **Qingyuan Liu\***, Kangrui Ruan and Xuan Di<br>
 
@@ -79,9 +82,10 @@ Zhaobin Mo\*, Baohua Yan\*, **Qingyuan Liu\***, Kangrui Ruan and Xuan Di<br>
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2025 DeLTa workshop</div><img src='images/mnist_masked_new.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2025 DeLTa workshop</div><img src='images/mnist_masked_new.png' alt="sym" style="width: 100%; height: 160px; object-fit: cover;"></div></div>
 <div class='paper-box-text' markdown="1">
 [BALANCED LATENT SPACE OF DIFFUSION MODELS FOR COUNTERFACTUAL GENERATION]()
+
 
 
 Baohua Yan, **Qingyuan Liu**, Zhaobin Mo, Kangrui Ruan and Xuan Di<br>
@@ -91,7 +95,7 @@ Baohua Yan, **Qingyuan Liu**, Zhaobin Mo, Kangrui Ruan and Xuan Di<br>
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ITSC 2024</div><img src='images/CAL.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ITSC 2024</div><img src='images/CAL.png' alt="sym" style="width: 100%; height: 160px; object-fit: cover;"></div></div>
 <div class='paper-box-text' markdown="1">
 [Causal Adjacency Learning for Spatiotemporal Prediction Over Graphs](https://arxiv.org/abs/2411.16142)
 
