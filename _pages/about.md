@@ -19,29 +19,34 @@ redirect_from:
 
 # 🙋‍♂️ <font color="#4A708B">About Me</font>
 
-Hi! I am Qingyuan Liu(刘 庆远), a Master Student in [Computer Engineering](https://compeng.columbia.edu/) at the [Columbia University](https://www.columbia.edu/). 
+Hi! I'm **Qingyuan Liu (刘庆远)**, a Master's student in [Computer Engineering](https://compeng.columbia.edu/) at [Columbia University](https://www.columbia.edu/).
 
-My research goal is to bridge the gap between cutting-edge AI capabilities and their responsible applications, specifically by building **trustworthy AI systems**. My current research focus on AI-Generated Video Detection and Generalizable Graph Machine Learning. I am working closely with Prof. [Junfeng Yang](https://www.cs.columbia.edu/~junfeng/) and Prof. [Sharon Di](https://www.engineering.columbia.edu/faculty/sharon-di) at columbia university.
+My research aims to bridge the gap between cutting-edge AI capabilities and their responsible real-world applications by building **trustworthy AI systems**. Currently, my work focuses on **efficient fine-tuning and model editing for large language models (LLMs)**, as well as **AI-generated video detection** and **controllable diffusion generation**.
 
-Previously, I graduated from [School of Computer Science & Technology](http://english.cs.hust.edu.cn/), [Huazhong University of Science and Technology](https://english.hust.edu.cn/) with a bachelor’s degree.
+I’m fortunate to be working closely with [Jiachen Gu](https://jasonforjoy.github.io/) and [Yunzhi Yao](https://yyzcowtodd.cn/) at the **UCLA NLP Lab**. At Columbia, I had the privilege of learning from and collaborating with Prof. [Junfeng Yang](https://www.cs.columbia.edu/~junfeng/) and Prof. [Sharon Di](https://www.engineering.columbia.edu/faculty/sharon-di).
 
-**For more details, please take a look at my [CV](https://tianzhaohaha.github.io/files/CV-Liu-24.11.pdf) !!!**
+Previously, I received my Bachelor's degree from the School of Computer Science & Technology at [Huazhong University of Science and Technology (HUST)](https://english.hust.edu.cn/).
+
+**For more details, please take a look at my [CV](https://tianzhaohaha.github.io/files/CV-Liu-24.11.pdf) [last update: 24.12]!!!**
 
 
 # 🔥 News
-- *2023.07*: &nbsp;🎉🎉 Happy to be included in [2024 Spring MS Honors Students](https://www.ee.columbia.edu/ms-ee-honors-program)!
-- *2023.06*: &nbsp;🎉🎉 My research on AI-Generated Video Detection **[*DIVID*](https://arxiv.org/abs/2406.09601)** was marked as [**Columbia Engineering Research Highlight**](https://www.engineering.columbia.edu/about/news/turns-out-im-not-real-detecting-ai-generated-videos)! 
+- *2025.04*: &nbsp;🎉🎉 Our work on controllable image diffusion generation got accepted by [ICLR 2025 DeLTa workshop](https://delta-workshop.github.io/)
+- *2024.07*: &nbsp;🎉🎉 Happy to be included in [2024 Spring MS Honors Students](https://www.ee.columbia.edu/ms-ee-honors-program)!
+- *2024.06*: &nbsp;🎉🎉 Our work Causal Adjacency Learning (CAL) got published on [ITSC 2024](https://ieee-itsc.org/2024/)
+- *2024.06*: &nbsp;🎉🎉 My research on AI-Generated Video Detection **[*DIVID*](https://arxiv.org/abs/2406.09601)** was marked as [**Columbia Engineering Research Highlight**](https://www.engineering.columbia.edu/about/news/turns-out-im-not-real-detecting-ai-generated-videos)! 
 
 # 📝 Publications 
 
 > (*: equal contribution)
 
-## 🎬Video Detection
+## 🎬AI-Generated Video Detection
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">preprint</div><img src='images/LAVID.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">preprint</div><img src='images/reveal_iccv-lavid_teaser.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-[LAVID: An Agentic LVLM Framework for Diffusion-Generated Video Detection]()
+[LAVID: An Agentic LVLM Framework for Diffusion-Generated Video Detection](https://arxiv.org/abs/2502.14994)
 **Qingyuan Liu**, Yun-Yun Tsai, Ruijian Zha, Pengyuan Shi, Victoria Li and Junfeng Yang<br>
+
 
 - Designed an agentic framework **LAVID** that leverage Large Vision Language Models (LVLMs) in detecting AI-generated videos. The LVLMs will call external tools to extract additional information from the video to facilitate themselves in the detection.
 - Evaluation results show LAVID improves F1 score by 6.2% to 30.2% over the top baseline on the comprehensive dataset across four SOTA LVLMs.
@@ -61,7 +66,7 @@ Previously, I graduated from [School of Computer Science & Technology](http://en
 </div>
 </div>
 
-## 🚗Transportation Optimazation
+## 🚗Controllable Diffusion Generation
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">preprint</div><img src='images/COUNTERFACT.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -70,6 +75,18 @@ Previously, I graduated from [School of Computer Science & Technology](http://en
 Zhaobin Mo\*, Baohua Yan\*, **Qingyuan Liu\***, Kangrui Ruan and Xuan Di<br>
 
 - Used the gradient of the counterfactual classifier to interfere with the sampling process of the diffusion model, thus generating diversified datasets. The model trained on the counterfactual dataset is expected to be more generalizable.
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2025 DeLTa workshop</div><img src='images/mnist_masked_new.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+[BALANCED LATENT SPACE OF DIFFUSION MODELS FOR COUNTERFACTUAL GENERATION]()
+
+
+Baohua Yan, **Qingyuan Liu**, Zhaobin Mo, Kangrui Ruan and Xuan Di<br>
+
+- we propose a framework that balances the latent space by incorporating signals that facilitate the transition to new counterfactuals while preserving factual information. We first identify the cause of this imbalance as the uncontrolled signal from the counterfactuals. Based on this understanding, we introduce a balancing method within the diffusion process. 
 
 </div>
 </div>
