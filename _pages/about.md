@@ -27,7 +27,7 @@ I’m fortunate to be working closely with [Jiachen Gu](https://jasonforjoy.gith
 
 Previously, I received my Bachelor's degree from the School of Computer Science & Technology at [Huazhong University of Science and Technology (HUST)](https://english.hust.edu.cn/).
 
-**For more details, please take a look at my [CV](https://tianzhaohaha.github.io/files/CV-Liu-24.11.pdf) [last update: 24.12]!!!**
+**For more details, please take a look at my [CV](https://tianzhaohaha.github.io/files/CV-Liu-24.11.pdf)** [last update: 24.12] **!!!**
 
 
 # 🔥 News
