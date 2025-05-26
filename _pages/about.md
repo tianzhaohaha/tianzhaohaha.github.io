@@ -23,7 +23,7 @@ Hi! I'm **Qingyuan Liu (刘庆远)**, a Master's student in [Computer Engineerin
 
 My research aims to bridge the gap between cutting-edge AI capabilities and their responsible real-world applications by building **trustworthy AI systems**. Currently, my work focuses on **efficient fine-tuning and model editing for large language models (LLMs)**, as well as **AI-generated video detection** and **controllable diffusion generation**.
 
-I’m fortunate to be working closely with [Jiachen Gu](https://jasonforjoy.github.io/) and [Yunzhi Yao](https://yyzcowtodd.cn/) at the **UCLA NLP Lab**. At Columbia, I had the privilege of learning from and collaborating with Prof. [Junfeng Yang](https://www.cs.columbia.edu/~junfeng/) and Prof. [Sharon Di](https://www.engineering.columbia.edu/faculty/sharon-di).
+I’m fortunate to be working closely with [Jiachen Gu](https://jasonforjoy.github.io/) and [Yunzhi Yao](https://yyzcowtodd.cn/) supervised by Porf. [Nanyun (Violet) Peng ](https://violetpeng.github.io/)at the **UCLA NLP Lab**. At Columbia, I had the privilege of learning from and collaborating with Prof. [Junfeng Yang](https://www.cs.columbia.edu/~junfeng/) and Prof. [Sharon Di](https://www.engineering.columbia.edu/faculty/sharon-di).
 
 Previously, I received my Bachelor's degree from the School of Computer Science & Technology at [Huazhong University of Science and Technology (HUST)](https://english.hust.edu.cn/).
 
