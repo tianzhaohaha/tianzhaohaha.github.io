@@ -23,7 +23,7 @@ Hi! I'm **Qingyuan Liu (刘庆远)**, a Master's student in [Computer Engineerin
 
 My research aims to bridge the gap between cutting-edge AI capabilities and their responsible real-world applications by building **trustworthy AI systems**. Currently, my work focuses on **efficient fine-tuning and model editing for large language models (LLMs)**, as well as **AI-generated video detection** and **controllable diffusion generation**.
 
-I’m fortunate to be working closely with [Jiachen Gu](https://jasonforjoy.github.io/) and [Yunzhi Yao](https://yyzcowtodd.cn/) at the **UCLA NLP Lab**. At Columbia, I had the privilege of learning from and collaborating with Prof. [Junfeng Yang](https://www.cs.columbia.edu/~junfeng/) and Prof. [Sharon Di](https://www.engineering.columbia.edu/faculty/sharon-di).
+I’m fortunate to be working closely with [Jiachen Gu](https://jasonforjoy.github.io/) and [Yunzhi Yao](https://yyzcowtodd.cn/) supervised by [Prof. Nanyun (Violet) Peng](https://violetpeng.github.io/) at the **UCLA NLP Lab**. At Columbia, I had the privilege of learning from and collaborating with Prof. [Junfeng Yang](https://www.cs.columbia.edu/~junfeng/) and Prof. [Sharon Di](https://www.engineering.columbia.edu/faculty/sharon-di).
 
 Previously, I received my Bachelor's degree from the School of Computer Science & Technology at [Huazhong University of Science and Technology (HUST)](https://english.hust.edu.cn/).
 
@@ -72,22 +72,10 @@ Previously, I received my Bachelor's degree from the School of Computer Science 
 
 ## 🚗Controllable Diffusion Generation
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">preprint</div><img src='images/COUNTERFACT.png' alt="sym" style="width: 100%"></div></div>
-<div class='paper-box-text' markdown="1">
-[Graph Out-of-Distribution Generalization via Counterfactual Augmentation]()
-
-
-
-Zhaobin Mo\*, Baohua Yan\*, **Qingyuan Liu\***, Kangrui Ruan and Xuan Di<br>
-
-- Used the gradient of the counterfactual classifier to interfere with the sampling process of the diffusion model, thus generating diversified datasets. The model trained on the counterfactual dataset is expected to be more generalizable.
-
-</div>
-</div>
-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2025 DeLTa workshop</div><img src='images/mnist_masked_new.png' alt="sym" style="width: 100%"></div></div>
 <div class='paper-box-text' markdown="1">
-[BALANCED LATENT SPACE OF DIFFUSION MODELS FOR COUNTERFACTUAL GENERATION]()
+[BALANCED LATENT SPACE OF DIFFUSION MODELS FOR COUNTERFACTUAL GENERATION](https://openreview.net/pdf?id=RTOgz0maBt)
+
 
 
 
