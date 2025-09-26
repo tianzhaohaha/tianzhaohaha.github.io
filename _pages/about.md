@@ -19,20 +19,22 @@ redirect_from:
 
 # 🙋‍♂️ <font color="#4A708B">About Me</font>
 
-Hi! I'm **Qingyuan Liu (刘庆远)**, a Master's student in [Computer Engineering](https://compeng.columbia.edu/) at [Columbia University](https://www.columbia.edu/). Previously, I received my Bachelor's degree from the School of Computer Science & Technology at [Huazhong University of Science and Technology (HUST)](https://english.hust.edu.cn/). I fortunately received the [**Columbia Engineering Research Highlight**](https://www.engineering.columbia.edu/about/news/turns-out-im-not-real-detecting-ai-generated-videos) in 2024.
+Hi! I'm **Qingyuan Liu (刘庆远)**, a Master's student in [Computer Engineering](https://compeng.columbia.edu/) at [Columbia University](https://www.columbia.edu/). Previously, I received my Bachelor's degree from the School of Computer Science & Technology at [Huazhong University of Science and Technology (HUST)](https://english.hust.edu.cn/). I fortunately received the <a href="https://www.engineering.columbia.edu/about/news/turns-out-im-not-real-detecting-ai-generated-videos" style="color:MediumVioletRed; font-weight:bold;">
+Columbia Engineering Research Highlight
+</a> in 2024.
 
+ 
 
+My research aims to bridge the gap between cutting-edge AI capabilities and their responsible real-world applications by building <span style="color:MediumVioletRed; font-weight:bold;">**Trustworthy AI and Efficient AI**</span>. A list of topics I am actively working on:
 
-My research aims to bridge the gap between cutting-edge AI capabilities and their responsible real-world applications by building **Trustworthy AI and Efficient AI**. A list of topics I am actively working on:
-
-- **Model Editing**: to reduce the cost of upgrading LLMs and enable data-efficient alterations to the behavior of LLMs, while ensuring no adverse impact on other inputs. Collaborated with [Jiachen Gu](https://jasonforjoy.github.io/) and [Yunzhi Yao](https://yyzcowtodd.cn/) supervised by Prof. [Prof. Nanyun (Violet) Peng](https://violetpeng.github.io/) at the [UCLA PLUSLAB](https://violetpeng.github.io/). [[Guess What's New Here? (:]]()
-- **Medical Foundation Model**: to design large-scale foundation models for medical imaging that integrate multi-modal signals (MRI, CT, and clinical data) for deployment in real-world healthcare scenarios. Collaborated with [Jieneng Chen](https://beckschen.github.io/) and [Yuhan Wang](https://scholar.google.com/citations?user=Bo9xeqMAAAAJ) supervised by Prof. [Yuyin Zhou](https://yuyinzhou.github.io/) at the [VLAA Lab](https://ucsc-vlaa.github.io/index.html) at UCSC.
+- **Model Editing**: to reduce the cost of upgrading LLMs and enable data-efficient alterations to the behavior of LLMs, while ensuring no adverse impact on other inputs. Collaborated with [Jiachen Gu](https://jasonforjoy.github.io/) and [Yunzhi Yao](https://yyzcowtodd.cn/) supervised by Prof. [Prof. Nanyun (Violet) Peng](https://violetpeng.github.io/) at the [UCLA PLUSLAB](https://violetpeng.github.io/). Recent work: [[Guess What's New Here? (:]]()
+- **Medical Foundation Model**: to design large-scale foundation models for medical imaging that integrate multi-modal signals (MRI, CT, and clinical data) for deployment in real-world healthcare scenarios. Collaborated with [Jieneng Chen](https://beckschen.github.io/) and [Yuhan Wang](https://scholar.google.com/citations?user=Bo9xeqMAAAAJ) supervised by Prof. [Yuyin Zhou](https://yuyinzhou.github.io/) at the [VLAA Lab](https://ucsc-vlaa.github.io/index.html) at UCSC. Recent work: [[Guess What's New Here? (:]]()
 - **Controllable Diffusion Generation**: to advance the controllability of diffusion models, extending their capabilities to handle complex, multi-condition, and application-specific generation tasks. Collaborated with [Zhaobin Mo](https://zhaobinmo.github.io/) and [Baohua Yan](https://scholar.google.com/citations?user=FKB22ZkAAAAJ&hl=en) supervised by Prof. [Sharon Di](https://www.engineering.columbia.edu/faculty/sharon-di) at the [DitecT Lab](https://sharondi-columbia.wixsite.com/ditectlab) at Columbia. Recent work: [[Balanced Gen., ICLR 2025 DeLTa]](https://delta-workshop.github.io/), [[CAL, ITSC 2024]](https://ieee-itsc.org/2024/)
-- **AI-Generated Video Detection**: to build reliable techniques for identifying AI-generated and synthetic videos. Supervised by Prof. [Junfeng Yang](https://www.cs.columbia.edu/~junfeng/) at Columbia. [[LAVID]](https://arxiv.org/abs/2502.14994), [[DIVID, CVPR 2024 GenAI]](https://arxiv.org/abs/2406.09601)
+- **AI-Generated Video Detection**: to build reliable techniques for identifying AI-generated and synthetic videos. Supervised by Prof. [Junfeng Yang](https://www.cs.columbia.edu/~junfeng/) at Columbia. Recent work: [[LAVID]](https://arxiv.org/abs/2502.14994), [[DIVID, CVPR 2024 GenAI]](https://arxiv.org/abs/2406.09601)
 
+ 
 
-
-**I am actively seeking opportunities to pursue a Ph.D. in related areas!!!**
+<span style="color:red; font-weight:bold;">I am actively seeking Ph.D. opportunities to further advance my research in trustworthy and efficient AI.</span>
 
 
 # 🔥 News
