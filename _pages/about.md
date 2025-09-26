@@ -23,18 +23,21 @@ Hi! I'm **Qingyuan Liu (刘庆远)**, a Master's student in [Computer Engineerin
 Columbia Engineering Research Highlight
 </a> in 2024.
 
- 
+   
 
 My research aims to bridge the gap between cutting-edge AI capabilities and their responsible real-world applications by building <span style="color:MediumVioletRed; font-weight:bold;">**Trustworthy AI and Efficient AI**</span>. A list of topics I am actively working on:
 
-- **Model Editing**: to reduce the cost of upgrading LLMs and enable data-efficient alterations to the behavior of LLMs, while ensuring no adverse impact on other inputs. Collaborated with [Jiachen Gu](https://jasonforjoy.github.io/) and [Yunzhi Yao](https://yyzcowtodd.cn/) supervised by Prof. [Prof. Nanyun (Violet) Peng](https://violetpeng.github.io/) at the [UCLA PLUSLAB](https://violetpeng.github.io/). Recent work: [[Guess What's New Here? (:]]()
-- **Medical Foundation Model**: to design large-scale foundation models for medical imaging that integrate multi-modal signals (MRI, CT, and clinical data) for deployment in real-world healthcare scenarios. Collaborated with [Jieneng Chen](https://beckschen.github.io/) and [Yuhan Wang](https://scholar.google.com/citations?user=Bo9xeqMAAAAJ) supervised by Prof. [Yuyin Zhou](https://yuyinzhou.github.io/) at the [VLAA Lab](https://ucsc-vlaa.github.io/index.html) at UCSC. Recent work: [[Guess What's New Here? (:]]()
-- **Controllable Diffusion Generation**: to advance the controllability of diffusion models, extending their capabilities to handle complex, multi-condition, and application-specific generation tasks. Collaborated with [Zhaobin Mo](https://zhaobinmo.github.io/) and [Baohua Yan](https://scholar.google.com/citations?user=FKB22ZkAAAAJ&hl=en) supervised by Prof. [Sharon Di](https://www.engineering.columbia.edu/faculty/sharon-di) at the [DitecT Lab](https://sharondi-columbia.wixsite.com/ditectlab) at Columbia. Recent work: [[Balanced Gen., ICLR 2025 DeLTa]](https://delta-workshop.github.io/), [[CAL, ITSC 2024]](https://ieee-itsc.org/2024/)
-- **AI-Generated Video Detection**: to build reliable techniques for identifying AI-generated and synthetic videos. Supervised by Prof. [Junfeng Yang](https://www.cs.columbia.edu/~junfeng/) at Columbia. Recent work: [[LAVID]](https://arxiv.org/abs/2502.14994), [[DIVID, CVPR 2024 GenAI]](https://arxiv.org/abs/2406.09601)
+- **Model Editing**: to reduce the cost of upgrading LLMs and enable data-efficient alterations to the behavior of LLMs, while ensuring no adverse impact on other inputs. Collaborated with <a href="https://jasonforjoy.github.io/" style="text-decoration:none; color:#4169E1;">Jiachen Gu</a> and <a href="https://yyzcowtodd.cn/" style="text-decoration:none; color:#4169E1;">Yunzhi Yao</a>, supervised by <a href="https://violetpeng.github.io/" style="text-decoration:none; color:#4169E1;">Prof. Nanyun (Violet) Peng</a> at the <a href="https://violetpeng.github.io/" style="text-decoration:none; color:#4169E1;">UCLA PLUSLAB</a>. Recent work: <a href="" style="text-decoration:none; color:#4169E1;">[Guess What's New Here? (:]</a>
 
- 
+- **Medical Foundation Model**: to design large-scale foundation models for medical imaging that integrate multi-modal signals (MRI, CT, and clinical data) for deployment in real-world healthcare scenarios. Collaborated with <a href="https://beckschen.github.io/" style="text-decoration:none; color:#4169E1;">Jieneng Chen</a> and <a href="https://scholar.google.com/citations?user=Bo9xeqMAAAAJ" style="text-decoration:none; color:#4169E1;">Yuhan Wang</a>, supervised by <a href="https://yuyinzhou.github.io/" style="text-decoration:none; color:#4169E1;">Prof. Yuyin Zhou</a> at the <a href="https://ucsc-vlaa.github.io/index.html" style="text-decoration:none; color:#4169E1;">VLAA Lab</a>, UCSC. Recent work: <a href="" style="text-decoration:none; color:#4169E1;">[Guess What's New Here? (:]</a>
 
-<span style="color:red; font-weight:bold;">I am actively seeking Ph.D. opportunities to further advance my research in trustworthy and efficient AI.</span>
+- **Controllable Diffusion Generation**: to advance the controllability of diffusion models, extending their capabilities to handle complex, multi-condition, and application-specific generation tasks. Collaborated with <a href="https://zhaobinmo.github.io/" style="text-decoration:none; color:#4169E1;">Zhaobin Mo</a> and <a href="https://scholar.google.com/citations?user=FKB22ZkAAAAJ&hl=en" style="text-decoration:none; color:#4169E1;">Baohua Yan</a>, supervised by <a href="https://www.engineering.columbia.edu/faculty/sharon-di" style="text-decoration:none; color:#4169E1;">Prof. Sharon Di</a> at the <a href="https://sharondi-columbia.wixsite.com/ditectlab" style="text-decoration:none; color:#4169E1;">DitecT Lab</a>, Columbia. Recent work: <a href="https://delta-workshop.github.io/" style="text-decoration:none; color:#4169E1;">[Balanced Gen., ICLR 2025 DeLTa]</a>, <a href="https://ieee-itsc.org/2024/" style="text-decoration:none; color:#4169E1;">[CAL, ITSC 2024]</a>
+
+- **AI-Generated Video Detection**: to build reliable techniques for identifying AI-generated and synthetic videos. Supervised by <a href="https://www.cs.columbia.edu/~junfeng/" style="text-decoration:none; color:#4169E1;">Prof. Junfeng Yang</a> at Columbia. Recent work: <a href="https://arxiv.org/abs/2502.14994" style="text-decoration:none; color:#4169E1;">[LAVID]</a>, <a href="https://arxiv.org/abs/2406.09601" style="text-decoration:none; color:#4169E1;">[DIVID, CVPR 2024 GenAI]</a>
+
+​     
+
+<span style="color:red; font-weight:bold;">I am actively seeking Ph.D. opportunities **in related areas!!!**</span>
 
 
 # 🔥 News
