@@ -19,22 +19,29 @@ redirect_from:
 
 # 🙋‍♂️ <font color="#4A708B">About Me</font>
 
-Hi! I'm **Qingyuan Liu (刘庆远)**, a Master's student in [Computer Engineering](https://compeng.columbia.edu/) at [Columbia University](https://www.columbia.edu/).
+Hi! I'm **Qingyuan Liu (刘庆远)**, a Master's student in [Computer Engineering](https://compeng.columbia.edu/) at [Columbia University](https://www.columbia.edu/). Previously, I received my Bachelor's degree from the School of Computer Science & Technology at [Huazhong University of Science and Technology (HUST)](https://english.hust.edu.cn/). I fortunately received the [**Columbia Engineering Research Highlight**](https://www.engineering.columbia.edu/about/news/turns-out-im-not-real-detecting-ai-generated-videos) in 2024.
 
-My research aims to bridge the gap between cutting-edge AI capabilities and their responsible real-world applications by building **trustworthy AI systems**. Currently, my work focuses on **efficient fine-tuning and model editing for large language models (LLMs)**, as well as **AI-generated video detection** and **controllable diffusion generation**.
 
-I’m fortunate to be working closely with [Jiachen Gu](https://jasonforjoy.github.io/) and [Yunzhi Yao](https://yyzcowtodd.cn/) supervised by [Prof. Nanyun (Violet) Peng](https://violetpeng.github.io/) at the **UCLA NLP Lab**. At Columbia, I had the privilege of learning from and collaborating with Prof. [Junfeng Yang](https://www.cs.columbia.edu/~junfeng/) and Prof. [Sharon Di](https://www.engineering.columbia.edu/faculty/sharon-di).
 
-Previously, I received my Bachelor's degree from the School of Computer Science & Technology at [Huazhong University of Science and Technology (HUST)](https://english.hust.edu.cn/).
+My research aims to bridge the gap between cutting-edge AI capabilities and their responsible real-world applications by building **Trustworthy AI and Efficient AI**. A list of topics I am actively working on:
 
-**For more details, please take a look at my [CV](https://tianzhaohaha.github.io/files/CV-Liu-24.11.pdf)** [last update: 24.12] **!!!**
+- **Model Editing**: to reduce the cost of upgrading LLMs and enable data-efficient alterations to the behavior of LLMs, while ensuring no adverse impact on other inputs. Collaborated with [Jiachen Gu](https://jasonforjoy.github.io/) and [Yunzhi Yao](https://yyzcowtodd.cn/) supervised by Prof. [Prof. Nanyun (Violet) Peng](https://violetpeng.github.io/) at the [UCLA PLUSLAB](https://violetpeng.github.io/). [[Guess What's New Here? (:]]()
+- **Medical Foundation Model**: to design large-scale foundation models for medical imaging that integrate multi-modal signals (MRI, CT, and clinical data) for deployment in real-world healthcare scenarios. Collaborated with [Jieneng Chen](https://beckschen.github.io/) and [Yuhan Wang](https://scholar.google.com/citations?user=Bo9xeqMAAAAJ) supervised by Prof. [Yuyin Zhou](https://yuyinzhou.github.io/) at the [VLAA Lab](https://ucsc-vlaa.github.io/index.html) at UCSC.
+- **Controllable Diffusion Generation**: to advance the controllability of diffusion models, extending their capabilities to handle complex, multi-condition, and application-specific generation tasks. Collaborated with [Zhaobin Mo](https://zhaobinmo.github.io/) and [Baohua Yan](https://scholar.google.com/citations?user=FKB22ZkAAAAJ&hl=en) supervised by Prof. [Sharon Di](https://www.engineering.columbia.edu/faculty/sharon-di) at the [DitecT Lab](https://sharondi-columbia.wixsite.com/ditectlab) at Columbia. Recent work: [[Balanced Gen., ICLR 2025 DeLTa]](https://delta-workshop.github.io/), [[CAL, ITSC 2024]](https://ieee-itsc.org/2024/)
+- **AI-Generated Video Detection**: to build reliable techniques for identifying AI-generated and synthetic videos. Supervised by Prof. [Junfeng Yang](https://www.cs.columbia.edu/~junfeng/) at Columbia. [[LAVID]](https://arxiv.org/abs/2502.14994), [[DIVID, CVPR 2024 GenAI]](https://arxiv.org/abs/2406.09601)
+
+
+
+**I am actively seeking opportunities to pursue a Ph.D. in related areas!!!**
 
 
 # 🔥 News
-- *2025.04*: &nbsp;🎉🎉 Our work on controllable image diffusion generation got accepted by [ICLR 2025 DeLTa workshop](https://delta-workshop.github.io/)
-- *2024.07*: &nbsp;🎉🎉 Happy to be included in [2024 Spring MS Honors Students](https://www.ee.columbia.edu/ms-ee-honors-program)!
-- *2024.06*: &nbsp;🎉🎉 Our work Causal Adjacency Learning (CAL) got published on [ITSC 2024](https://ieee-itsc.org/2024/)
-- *2024.06*: &nbsp;🎉🎉 My research on AI-Generated Video Detection **[*DIVID*](https://arxiv.org/abs/2406.09601)** was marked as [**Columbia Engineering Research Highlight**](https://www.engineering.columbia.edu/about/news/turns-out-im-not-real-detecting-ai-generated-videos)! 
+- 2025.09: &nbsp;🎉🎉 My **first-author** research on model editing was submitted to [ICLR2026](https://iclr.cc/Conferences/2026), further pushing the boundary of model editing. Huge thanks to [Jiachen Gu](https://jasonforjoy.github.io/) and [Yunzhi Yao](https://yyzcowtodd.cn/)! 
+- *2025.04*: &nbsp;🎉🎉 My **second-author** research on Controllable Diffusion Generation was accepted by [ICLR 2025 DeLTa workshop](https://delta-workshop.github.io/)!
+- *2025.03*: &nbsp;🎉🎉 My **first-author** research on AI-Generated Video Detection [LAVID](https://arxiv.org/abs/2502.14994) is now available on arXiv!
+- *2024.07*: &nbsp;🎉🎉 Honored to be included in [Columbia 2024 Spring MS Honors Students](https://www.ee.columbia.edu/ms-ee-honors-program) (TOP3 in MSCE)!
+- *2024.06*: &nbsp;🎉🎉 My **first-author** research on Causal Adjacency Learning (CAL) on graph machine learning was published on [ITSC 2024](https://ieee-itsc.org/2024/)!
+- *2024.06*: &nbsp;🎉🎉 My **first-author** research on AI-Generated Video Detection **[*DIVID*](https://arxiv.org/abs/2406.09601)** was highlighted as [**Columbia Engineering Research Highlight**](https://www.engineering.columbia.edu/about/news/turns-out-im-not-real-detecting-ai-generated-videos)! 
 
 # 📝 Publications 
 
@@ -42,10 +49,11 @@ Previously, I received my Bachelor's degree from the School of Computer Science 
 
 ## 🎬AI-Generated Video Detection
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">preprint</div><img src='images/reveal_iccv-mainflow.png' alt="sym" style="width: 100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv</div><img src='images/reveal_iccv-mainflow.png' alt="sym" style="width: 100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [LAVID: An Agentic LVLM Framework for Diffusion-Generated Video Detection](https://arxiv.org/abs/2502.14994)
 **Qingyuan Liu**, Yun-Yun Tsai, Ruijian Zha, Pengyuan Shi, Victoria Li and Junfeng Yang<br>
+
 
 
 
@@ -56,9 +64,10 @@ Previously, I received my Bachelor's degree from the School of Computer Science 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2024 GenAI Workshop</div><img src='images/DIVID.png' alt="sym" style="width: 100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2024 GenAI</div><img src='images/DIVID.png' alt="sym" style="width: 100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [Turns Out I'm Not Real: Towards Robust Detection of AI-Generated Videos](https://arxiv.org/abs/2406.09601)
+
 
 
 
@@ -72,9 +81,10 @@ Previously, I received my Bachelor's degree from the School of Computer Science 
 
 ## 🚗Controllable Diffusion Generation
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2025 DeLTa workshop</div><img src='images/mnist_masked_new.png' alt="sym" style="width: 100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2025 DeLTa</div><img src='images/mnist_masked_new.png' alt="sym" style="width: 100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [BALANCED LATENT SPACE OF DIFFUSION MODELS FOR COUNTERFACTUAL GENERATION](https://openreview.net/pdf?id=RTOgz0maBt)
+
 
 
 
@@ -151,15 +161,15 @@ National Second Prize (Top 3% out of 1006 teams worldwide) in C4
 <span class='anchor' id='-honors-and-awards'></span>
 
 # 🏆️ Honors and Awards
-- *2023.10* Advanced Master Research Student. 
-- *2023.8* [2024 Spring MS Honors Students](https://www.ee.columbia.edu/ms-ee-honors-program). 
-- *2023.6* [Columbia Engineering Research Highlight](https://www.engineering.columbia.edu/about/news/turns-out-im-not-real-detecting-ai-generated-videos).
-- *2021.10* National Second Prize in the China Collegiate Computing Contest-Network Technology Challenge (C4). 
+- *2024.10* Advanced Master Research Student. 
+- *2024.8* [2024 Spring MS Honors Students](https://www.ee.columbia.edu/ms-ee-honors-program). 
+- *2024.6* [Columbia Engineering Research Highlight](https://www.engineering.columbia.edu/about/news/turns-out-im-not-real-detecting-ai-generated-videos).
+- *2022.10* National Second Prize in the China Collegiate Computing Contest-Network Technology Challenge (C4). 
 
 <span class='anchor' id='-educations'></span>
 
 # 📖 Educations
-- *2023.09 - present*, [Columbia University](https://www.columbia.edu/), New York, USA
+- *2023.09 - 2025.06*, [Columbia University](https://www.columbia.edu/), New York, USA
 - *2019.09 - 2023.06*, [Huazhong University of Science and Technology](https://english.hust.edu.cn/), Wuhan, China
 - *2016.09 - 2019.06*, [Tianjin Xinhua High School](https://zh.wikipedia.org/wiki/%E5%A4%A9%E6%B4%A5%E5%B8%82%E6%96%B0%E5%8D%8E%E4%B8%AD%E5%AD%A6), Tianjin, China
 
