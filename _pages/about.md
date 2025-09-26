@@ -55,10 +55,23 @@ My research aims to bridge the gap between cutting-edge AI capabilities and thei
 
 ## 🎬AI-Generated Video Detection
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv</div><img src='images/reveal_iccv-mainflow.png' alt="sym" style="width: 100%"></div></div>
-<div class='paper-box-text' markdown="1">
-[LAVID: An Agentic LVLM Framework for Diffusion-Generated Video Detection](https://arxiv.org/abs/2502.14994)
-**Qingyuan Liu**, Yun-Yun Tsai, Ruijian Zha, Pengyuan Shi, Victoria Li and Junfeng Yang<br>
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge">arXiv</div>
+      <img src='images/reveal_iccv-mainflow.png' alt="sym" style="width: 100%">
+    </div>
+  </div>
+  <div class='paper-box-text' markdown="1">
+<a href="https://arxiv.org/abs/2502.14994" style="text-decoration:none !important; color:#4169E1 !important; font-weight:bold;">
+  LAVID: An Agentic LVLM Framework for Diffusion-Generated Video Detection
+</a>
+<br>
+    <strong>Qingyuan Liu</strong>, Yun-Yun Tsai, Ruijian Zha, Pengyuan Shi, Victoria Li and Junfeng Yang<br>
+  </div>
+</div>
+
+
 
 
 
