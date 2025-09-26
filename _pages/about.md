@@ -63,27 +63,13 @@ My research aims to bridge the gap between cutting-edge AI capabilities and thei
 
 ## 🎬AI-Generated Video Detection
 
-<div class='paper-box'>
-  <div class='paper-box-image'>
-    <div>
-      <div class="badge">arXiv</div>
-      <img src='images/reveal_iccv-mainflow.png' alt="sym" style="width: 100%">
-    </div>
-  </div>
-  <div class='paper-box-text' markdown="1">
-<a href="https://arxiv.org/abs/2502.14994" style="text-decoration:none !important; color:#4169E1 !important; font-weight:bold;">
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2024 GenAI</div><img src='images/reveal_iccv-mainflow.png' alt="sym" style="width: 100%"></div></div>
+<div class='paper-box-text' markdown="1">
+<a href="https://arxiv.org/abs/2502.14994" style="color:#4169E1; text-decoration:none; font-weight:bold;">
   LAVID: An Agentic LVLM Framework for Diffusion-Generated Video Detection
 </a>
-<br>
-    <strong>Qingyuan Liu</strong>, Yun-Yun Tsai, Ruijian Zha, Pengyuan Shi, Victoria Li and Junfeng Yang<br>
-  </div>
-</div>
 
-
-
-
-
-
+**Qingyuan Liu**, Yun-Yun Tsai, Ruijian Zha, Pengyuan Shi, Victoria Li and Junfeng Yang
 
 - Designed an agentic framework **LAVID** that leverage Large Vision Language Models (LVLMs) in detecting AI-generated videos. The LVLMs will call external tools to extract additional information from the video to facilitate themselves in the detection.
 - Evaluation results show LAVID improves F1 score by 6.2% to 30.2% over the top baseline on the comprehensive dataset across four SOTA LVLMs.
@@ -93,8 +79,10 @@ My research aims to bridge the gap between cutting-edge AI capabilities and thei
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2024 GenAI</div><img src='images/DIVID.png' alt="sym" style="width: 100%"></div></div>
 <div class='paper-box-text' markdown="1">
-[Turns Out I'm Not Real: Towards Robust Detection of AI-Generated Videos](https://arxiv.org/abs/2406.09601)
-
+<a href="https://arxiv.org/abs/2406.09601"
+   style="color:#4169E1 !important; text-decoration:none !important; font-weight:bold;">
+  Turns Out I'm Not Real: Towards Robust Detection of AI-Generated Videos
+</a>
 
 
 
@@ -110,7 +98,10 @@ My research aims to bridge the gap between cutting-edge AI capabilities and thei
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2025 DeLTa</div><img src='images/mnist_masked_new.png' alt="sym" style="width: 100%"></div></div>
 <div class='paper-box-text' markdown="1">
-[BALANCED LATENT SPACE OF DIFFUSION MODELS FOR COUNTERFACTUAL GENERATION](https://openreview.net/pdf?id=RTOgz0maBt)
+<a href="https://openreview.net/pdf?id=RTOgz0maBt" 
+   style="color:#4169E1 !important; text-decoration:none !important; font-weight:bold;">
+  BALANCED LATENT SPACE OF DIFFUSION MODELS FOR COUNTERFACTUAL GENERATION
+</a>
 
 
 
@@ -126,7 +117,11 @@ Baohua Yan, **Qingyuan Liu**, Zhaobin Mo, Kangrui Ruan and Xuan Di<br>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ITSC 2024</div><img src='images/CAL.png' alt="sym" style="width: 100%"></div></div>
 <div class='paper-box-text' markdown="1">
-[Causal Adjacency Learning for Spatiotemporal Prediction Over Graphs](https://arxiv.org/abs/2411.16142)
+<a href="https://arxiv.org/abs/2411.16142"
+   style="color:#4169E1 !important; text-decoration:none !important; font-weight:bold;">
+  Causal Adjacency Learning for Spatiotemporal Prediction Over Graphs
+</a>
+
 
 
 Zhaobin Mo*, **Qingyuan Liu\***, Baohua Yan, Longxiang Zhang, and Xuan Di<br>
