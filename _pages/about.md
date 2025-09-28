@@ -23,6 +23,31 @@ Hi! I'm **Qingyuan Liu (刘庆远)**, a Master's student in <a href="https://com
 Columbia Engineering Research Highlight
 </a> in 2024.<br><br>
 
+
+
+<span style="color:red; font-weight:bold;">I am actively seeking Ph.D. opportunities **in related areas!!!**</span>
+
+
+
+# 🔥 News
+
+- **2025.09**: &nbsp;🎉🎉 My <span style="color:MediumVioletRed; font-weight:bold;">**first-author**</span> research on model editing was submitted to <a href="https://iclr.cc/Conferences/2026" style="text-decoration:none; color:#4169E1;">ICLR 2026</a>, further pushing the boundary of model editing. Huge thanks to <a href="https://jasonforjoy.github.io/" style="text-decoration:none; color:#4169E1;">Jiachen Gu</a> and <a href="https://yyzcowtodd.cn/" style="text-decoration:none; color:#4169E1;">Yunzhi Yao</a>!  
+- **2025.04**: &nbsp;🎉🎉 My <span style="color:MediumVioletRed; font-weight:bold;">**second-author**</span> research on Controllable Diffusion Generation was accepted by the <a href="https://delta-workshop.github.io/" style="text-decoration:none; color:#4169E1;">ICLR 2025 DeLTa Workshop</a>!  
+
+- **2025.03**: &nbsp;🎉🎉 My <span style="color:MediumVioletRed; font-weight:bold;">**first-author**</span> research on AI-Generated Video Detection <a href="https://arxiv.org/abs/2502.14994" style="text-decoration:none; color:#4169E1;">LAVID</a> is now available on arXiv!  
+
+- **2024.07**: &nbsp;🎉🎉 Honored to be included in the <a href="https://www.ee.columbia.edu/ms-ee-honors-program" style="text-decoration:none; color:#4169E1;">Columbia 2024 Spring MS Honors Students</a> (TOP 3 in MSCE)!  
+
+- **2024.06**: &nbsp;🎉🎉 My <span style="color:MediumVioletRed; font-weight:bold;">**first-author**</span> research on Causal Adjacency Learning (CAL) in graph machine learning was published at <a href="https://ieee-itsc.org/2024/" style="text-decoration:none; color:#4169E1;">ITSC 2024</a>!  
+
+- **2024.06**: &nbsp;🎉🎉 My <span style="color:MediumVioletRed; font-weight:bold;">**first-author**</span> research on AI-Generated Video Detection <a href="https://arxiv.org/abs/2406.09601" style="text-decoration:none; color:#4169E1;">DIVID</a> was highlighted as a <a href="https://www.engineering.columbia.edu/about/news/turns-out-im-not-real-detecting-ai-generated-videos" style="text-decoration:none; color:#4169E1;">Columbia Engineering Research Highlight</a>!  
+
+<br><br>
+
+
+
+# **📖** Research Experience
+
 My research aims to bridge the gap between cutting-edge AI capabilities and their responsible real-world applications by building <span style="color:MediumVioletRed; font-weight:bold;">**Trustworthy AI and Efficient AI**</span>. A list of topics I am actively working on:
 
 - **Model Editing**: to reduce the cost of upgrading LLMs and enable data-efficient alterations to the behavior of LLMs, while ensuring no adverse impact on other inputs. 
@@ -38,24 +63,9 @@ My research aims to bridge the gap between cutting-edge AI capabilities and thei
   - Supervised by <a href="https://www.cs.columbia.edu/~junfeng/" style="text-decoration:none; color:#4169E1; font-weight:bold;">Prof. Junfeng Yang</a> at Columbia. 
   - Recent work: <a href="https://arxiv.org/abs/2502.14994" style="text-decoration:none; color:#4169E1;">[LAVID]</a>, <a href="https://arxiv.org/abs/2406.09601" style="text-decoration:none; color:#4169E1;">[DIVID, CVPR 2024 GenAI]</a>
 
+<br><br>
 
 
-<br>
-
-<span style="color:red; font-weight:bold;">I am actively seeking Ph.D. opportunities **in related areas!!!**</span>
-
-
-# 🔥 News
-- **2025.09**: &nbsp;🎉🎉 My <span style="color:MediumVioletRed; font-weight:bold;">**first-author**</span> research on model editing was submitted to <a href="https://iclr.cc/Conferences/2026" style="text-decoration:none; color:#4169E1;">ICLR 2026</a>, further pushing the boundary of model editing. Huge thanks to <a href="https://jasonforjoy.github.io/" style="text-decoration:none; color:#4169E1;">Jiachen Gu</a> and <a href="https://yyzcowtodd.cn/" style="text-decoration:none; color:#4169E1;">Yunzhi Yao</a>!  
-- **2025.04**: &nbsp;🎉🎉 My <span style="color:MediumVioletRed; font-weight:bold;">**second-author**</span> research on Controllable Diffusion Generation was accepted by the <a href="https://delta-workshop.github.io/" style="text-decoration:none; color:#4169E1;">ICLR 2025 DeLTa Workshop</a>!  
-
-- **2025.03**: &nbsp;🎉🎉 My <span style="color:MediumVioletRed; font-weight:bold;">**first-author**</span> research on AI-Generated Video Detection <a href="https://arxiv.org/abs/2502.14994" style="text-decoration:none; color:#4169E1;">LAVID</a> is now available on arXiv!  
-
-- **2024.07**: &nbsp;🎉🎉 Honored to be included in the <a href="https://www.ee.columbia.edu/ms-ee-honors-program" style="text-decoration:none; color:#4169E1;">Columbia 2024 Spring MS Honors Students</a> (TOP 3 in MSCE)!  
-
-- **2024.06**: &nbsp;🎉🎉 My <span style="color:MediumVioletRed; font-weight:bold;">**first-author**</span> research on Causal Adjacency Learning (CAL) in graph machine learning was published at <a href="https://ieee-itsc.org/2024/" style="text-decoration:none; color:#4169E1;">ITSC 2024</a>!  
-
-- **2024.06**: &nbsp;🎉🎉 My <span style="color:MediumVioletRed; font-weight:bold;">**first-author**</span> research on AI-Generated Video Detection <a href="https://arxiv.org/abs/2406.09601" style="text-decoration:none; color:#4169E1;">DIVID</a> was highlighted as a <a href="https://www.engineering.columbia.edu/about/news/turns-out-im-not-real-detecting-ai-generated-videos" style="text-decoration:none; color:#4169E1;">Columbia Engineering Research Highlight</a>!  
 
 # 📝 Publications 
 
@@ -68,7 +78,6 @@ My research aims to bridge the gap between cutting-edge AI capabilities and thei
 <a href="https://arxiv.org/abs/2502.14994" style="color:#4169E1; text-decoration:none; font-weight:bold;">
   LAVID: An Agentic LVLM Framework for Diffusion-Generated Video Detection
 </a>
-
 **Qingyuan Liu**, Yun-Yun Tsai, Ruijian Zha, Pengyuan Shi, Victoria Li and Junfeng Yang
 
 - Designed an agentic framework **LAVID** that leverage Large Vision Language Models (LVLMs) in detecting AI-generated videos. The LVLMs will call external tools to extract additional information from the video to facilitate themselves in the detection.
