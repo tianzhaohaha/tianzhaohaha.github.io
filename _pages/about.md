@@ -42,7 +42,7 @@ Columbia Engineering Research Highlight
 
 - **2024.06**: &nbsp;🎉🎉 My <span style="color:MediumVioletRed; font-weight:bold;">**first-author**</span> research on AI-Generated Video Detection <a href="https://arxiv.org/abs/2406.09601" style="text-decoration:none; color:#4169E1;">DIVID</a> was highlighted as a <a href="https://www.engineering.columbia.edu/about/news/turns-out-im-not-real-detecting-ai-generated-videos" style="text-decoration:none; color:#4169E1;">Columbia Engineering Research Highlight</a>!  
 
-<br><br>
+<br>
 
 
 
