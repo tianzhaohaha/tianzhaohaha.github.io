@@ -191,8 +191,8 @@ National Second Prize (Top 3% out of 1006 teams worldwide) in C4
 
 # 🏆️ Honors and Awards
 - *2024.10* Advanced Master Research Student. 
-- *2024.8* <a href="https://www.ee.columbia.edu/ms-ee-honors-program" style="text-decoration:none; color:#4169E1;">2024 Spring MS Honors Students</a>.  
-- *2024.6* <a href="https://www.engineering.columbia.edu/about/news/turns-out-im-not-real-detecting-ai-generated-videos" style="text-decoration:none; color:#4169E1;">Columbia Engineering Research Highlight</a>.  
+- *2024.08* <a href="https://www.ee.columbia.edu/ms-ee-honors-program" style="text-decoration:none; color:#4169E1;">2024 Spring MS Honors Students</a>.  
+- *2024.06* <a href="https://www.engineering.columbia.edu/about/news/turns-out-im-not-real-detecting-ai-generated-videos" style="text-decoration:none; color:#4169E1;">Columbia Engineering Research Highlight</a>.  
 - *2022.10* National Second Prize in the China Collegiate Computing Contest-Network Technology Challenge (C4). 
 
 <span class='anchor' id='-educations'></span>
