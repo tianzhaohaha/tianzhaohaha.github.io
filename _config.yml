@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Qingyuan Liu"
-description              : "MS in Computer Engineering at Columbia University. Focusing on efficient fine-tuning and model edit for LLMs, as well as AI-generated video detection and controllable diffusion generation."
+description              : "MS in Computer Engineering at Columbia University. Focusing on efficient fine-tuning and model edit for LLMs, as well as AI-Synthetic Detection and Controllable Diffusion."
 repository               : "tianzhaohaha/tianzhaohaha.github.io"
 google_scholar_stats_use_cdn : true
 
