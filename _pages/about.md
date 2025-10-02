@@ -53,7 +53,7 @@ Columbia Engineering Research Highlight
 My research aims to bridge the gap between cutting-edge AI capabilities and their responsible real-world applications by building <span style="color:MediumVioletRed; font-weight:bold;">**Trustworthy AI and Efficient AI**</span>. A list of topics I am actively working on:
 
 - **Model Editing**: to reduce the cost of upgrading LLMs and enable data-efficient alterations to the behavior of LLMs, while ensuring no adverse impact on other inputs. Recent work: <a href="https://arxiv.org/abs/2510.01172" style="text-decoration:none; color:#4169E1;">[SPHERE, ICLR 2026 submission]</a>
-  - Collaborated with <a href="https://jasonforjoy.github.io/" style="text-decoration:none; color:#4169E1; font-weight:bold;">Jiachen Gu</a> and <a href="https://yyzcowtodd.cn/" style="text-decoration:none; color:#4169E1; font-weight:bold;">Yunzhi Yao</a>, supervised by Prof. <a href="https://violetpeng.github.io/" style="text-decoration:none; color:#4169E1; font-weight:bold;">Nanyun (Violet) Peng</a> at the UCLA PLUSLAB. 
+  - Collaborated with <a href="https://jasonforjoy.github.io/" style="text-decoration:none; color:#4169E1; font-weight:bold;">Jiachen Gu</a> and <a href="https://yyzcowtodd.cn/" style="text-decoration:none; color:#4169E1; font-weight:bold;">Yunzhi Yao</a>, supervised by Prof. <a href="https://violetpeng.github.io/" style="text-decoration:none; color:#4169E1; font-weight:bold;">Nanyun (Violet) Peng</a> at the PLUSLAB, UCLA. 
 - **Foundation Model**: to design large-scale foundation models for medical imaging that integrate multi-modal signals (MRI, CT, and clinical data) for deployment in real-world healthcare scenarios. Recent work: <a href="" style="text-decoration:none; color:#4169E1;">[Guess What's New Here? (:]</a>
   - Collaborated with <a href="https://beckschen.github.io/" style="text-decoration:none; color:#4169E1; font-weight:bold;">Jieneng Chen</a> and <a href="https://scholar.google.com/citations?user=Bo9xeqMAAAAJ" style="text-decoration:none; color:#4169E1; font-weight:bold;">Yuhan Wang</a>, supervised by Prof. <a href="https://yuyinzhou.github.io/" style="text-decoration:none; color:#4169E1; font-weight:bold;">Yuyin Zhou</a> at the VLAA Lab, UCSC. 
 - **Controllable Diffusion**: to advance the controllability of diffusion models, extending their capabilities to handle complex, multi-condition, and application-specific generation tasks. Recent work: <a href="https://delta-workshop.github.io/" style="text-decoration:none; color:#4169E1;">[Balanced Gen., ICLR 2025 DeLTa]</a>, <a href="https://ieee-itsc.org/2024/" style="text-decoration:none; color:#4169E1;">[CAL, ITSC 2024]</a>
@@ -192,7 +192,7 @@ National Second Prize (Top 3% out of 1006 teams worldwide) in C4
 - *2024.10* Advanced Master Research Student. 
 - *2024.08* <a href="https://www.ee.columbia.edu/ms-ee-honors-program" style="text-decoration:none; color:#4169E1;">2024 Spring MS Honors Students</a> (TOP 3 in MSCE).  
 - *2024.06* <a href="https://www.engineering.columbia.edu/about/news/turns-out-im-not-real-detecting-ai-generated-videos" style="text-decoration:none; color:#4169E1;">Columbia Engineering Research Highlight</a>.  
-- *2022.10* National Second Prize in the China Collegiate Computing Contest-Network Technology Challenge (C4) (TOP 3%). 
+- *2023.1* National Second Prize in the China Collegiate Computing Contest-Network Technology Challenge (C4) (TOP 3%). 
 
 <span class='anchor' id='-educations'></span>
 
