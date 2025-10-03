@@ -23,13 +23,9 @@ Hi! I'm **Qingyuan Liu (刘庆远)**, currently a Research Assistant at <a href=
 Columbia Engineering Research Highlight
 </a> in 2024.
 
-<br><br>
-
-
+<br>
 
 <span style="color:red; font-weight:bold;">I am actively seeking Ph.D. opportunities **in related areas!!!**</span>
-
-
 
 # 🔥 News
 
@@ -46,8 +42,6 @@ Columbia Engineering Research Highlight
 
 <br>
 
-
-
 # **📖** Research Experience
 
 My research aims to bridge the gap between cutting-edge AI capabilities and their responsible real-world applications by building <span style="color:MediumVioletRed; font-weight:bold;">**Trustworthy AI and Efficient AI**</span>. A list of topics I am actively working on:
@@ -61,7 +55,7 @@ My research aims to bridge the gap between cutting-edge AI capabilities and thei
 - **AI-Synthetic Detection**: to build reliable techniques for identifying AI-generated and synthetic videos. Recent work: <a href="https://arxiv.org/abs/2502.14994v1" style="text-decoration:none; color:#4169E1;">[LAVID, 2025]</a>, <a href="https://arxiv.org/abs/2406.09601" style="text-decoration:none; color:#4169E1;">[DIVID, CVPR 2024 GenAI]</a>
   - Supervised by Prof. <a href="https://www.cs.columbia.edu/~junfeng/" style="text-decoration:none; color:#4169E1; font-weight:;">Junfeng Yang</a> at Columbia. 
 
-<br><br>
+<br>
 
 
 
