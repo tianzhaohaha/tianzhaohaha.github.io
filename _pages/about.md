@@ -154,14 +154,13 @@ Zhaobin Mo*, **Qingyuan Liu\***, Baohua Yan, Longxiang Zhang, and Xuan Di<br>
 
 
 
-<span class='anchor' id='--interesting-hardware-projects'></span>
+<span class='anchor' id='-interesting-hardware-projects'></span>
 
 # 📚 Interesting Hardware Projects 
 
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/BUBBLE.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 **Bubble Bobble Game**<br>
-
 <a href="https://www.cs.columbia.edu/~sedwards/classes/2024/4840-spring/reports/Bubble-Bobble-report.pdf" style="text-decoration:none; color:#4169E1;">Report</a> \| <a href="https://www.cs.columbia.edu/~sedwards/classes/2024/4840-spring/reports/Bubble-Bobble-presentation.pdf" style="text-decoration:none; color:#4169E1;">Presentation</a>
 
 Course Project of CSEE4840 Embedded Systems, CU (<a href="https://www.cs.columbia.edu/~sedwards/classes/2024/4840-spring/index.html" style="text-decoration:none; color:#4169E1;">Rated 1st</a>)
