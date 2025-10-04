@@ -13,7 +13,7 @@ main:
     url: "/#-publications"
 
   - title: "Interesting Hardware Projects"
-    url: "/#-selected-projects"
+    url: "/#-interesting-hardware-projects"
 
   - title: "Honors and Awards"
     url: "/#-honors-and-awards"
