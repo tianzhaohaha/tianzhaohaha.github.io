@@ -53,7 +53,9 @@ My research aims to bridge the gap between cutting-edge AI capabilities and thei
 
 <br>
 
+<span class='anchor' id='-research-experience'></span>
 
+# 
 
 # 📝 Publications 
 
@@ -152,7 +154,7 @@ Zhaobin Mo*, **Qingyuan Liu\***, Baohua Yan, Longxiang Zhang, and Xuan Di<br>
 
 <span class='anchor' id='--selected-projects'></span>
 
-# 📚 Selected Projects 
+# 📚 Interesting Hardware Projects 
 
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/BUBBLE.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
