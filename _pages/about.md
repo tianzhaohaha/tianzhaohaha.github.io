@@ -152,6 +152,8 @@ Zhaobin Mo*, **Qingyuan Liu\***, Baohua Yan, Longxiang Zhang, and Xuan Di<br>
 
 - <a href="https://www.spiedigitallibrary.org/conference-proceedings-of-spie/12303/2642855/Accurate-face-swap-using-cycleGAN/10.1117/12.2642855.short" style="text-decoration:none; color:#4169E1;">Accurate face swap using cycleGAN</a>, **Qingyuan Liu**, Yuxuan Zhou, and Shuai Bao, Proc. SPIE 12303, International Conference on Cloud Computing, Internet of Things, and Computer Applications (**CICA**), 2022
 
+
+
 <span class='anchor' id='--interesting-hardware-projects'></span>
 
 # 📚 Interesting Hardware Projects 
