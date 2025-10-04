@@ -79,7 +79,7 @@ My research aims to bridge the gap between cutting-edge AI capabilities and thei
 
 ## 🎬AI-Synthetic Detection
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2024 GenAI</div><img src='images/reveal_iccv-mainflow.png' alt="sym" style="width: 100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">preprint</div><img src='images/reveal_iccv-mainflow.png' alt="sym" style="width: 100%"></div></div>
 <div class='paper-box-text' markdown="1">
 <a href="https://arxiv.org/abs/2502.14994v1" style="color:#4169E1; text-decoration:none; font-weight:bold;">
   LAVID: An Agentic LVLM Framework for Diffusion-Generated Video Detection
@@ -196,7 +196,7 @@ National Second Prize (Top 3% out of 1006 teams worldwide) in C4
 
 # 🏆️ Honors and Awards
 - *2024.10* Advanced Master Research Student. 
-- *2024.08* <a href="https://www.ee.columbia.edu/ms-ee-honors-program" style="text-decoration:none; color:#4169E1;">2024 Spring MS Honors Students</a> (TOP 3 in MSCE).  
+- *2024.08* <a href="https://www.ee.columbia.edu/ms-ee-honors-program" style="text-decoration:none; color:#4169E1;">2024 Spring MS Honors Students</a> (Rank Top 3 in MSCE).  
 - *2024.06* <a href="https://www.engineering.columbia.edu/about/news/turns-out-im-not-real-detecting-ai-generated-videos" style="text-decoration:none; color:#4169E1;">Columbia Engineering Research Highlight</a>.  
 - *2023.1* National Second Prize in the China Collegiate Computing Contest-Network Technology Challenge (C4) (TOP 3%). 
 
