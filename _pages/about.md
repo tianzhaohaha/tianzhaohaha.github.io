@@ -59,7 +59,7 @@ My research aims to bridge the gap between cutting-edge AI capabilities and thei
 
 > (*: equal contribution)
 
-## 🚗: Knowledge Mechanisms and Editing
+## 🌐Knowledge Mechanisms and Editing
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2026 in submission</div><img src='images/sphere.png' alt="sym" style="width: 100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -87,7 +87,7 @@ My research aims to bridge the gap between cutting-edge AI capabilities and thei
 
 
 
-**Qingyuan Liu**, Yun-Yun Tsai, Ruijian Zha, Pengyuan Shi, Victoria Li and Junfeng Yang
+**Qingyuan Liu**, Yun-Yun Tsai, Ruijian Zha, Pengyuan Shi, Victoria Li Chengzhi Mao and Junfeng Yang
 
 - Designed an agentic framework **LAVID** that leverage Large Vision Language Models (LVLMs) in detecting AI-generated videos. The LVLMs will call external tools to extract additional information from the video to facilitate themselves in the detection.
 - Evaluation results show LAVID improves F1 score by 6.2% to 30.2% over the top baseline on the comprehensive dataset across four SOTA LVLMs.
