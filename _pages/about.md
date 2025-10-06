@@ -59,9 +59,10 @@ My research aims to bridge the gap between cutting-edge AI capabilities and thei
 
 # 📝 Publications 
 
-> (*: equal contribution)
+> (*: equal contribution
 
-## 🌐Knowledge Mechanisms and Editing
+
+
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2026 in submission</div><img src='images/sphere.png' alt="sym" style="width: 100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -79,7 +80,7 @@ My research aims to bridge the gap between cutting-edge AI capabilities and thei
 </div>
 </div>
 
-## 🎬AI-Synthetic Detection
+
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">preprint</div><img src='images/reveal_iccv-mainflow.png' alt="sym" style="width: 100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -114,7 +115,7 @@ My research aims to bridge the gap between cutting-edge AI capabilities and thei
 </div>
 </div>
 
-## 🚗Controllable Diffusion
+
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2025 DeLTa</div><img src='images/mnist_masked_new.png' alt="sym" style="width: 100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -122,6 +123,7 @@ My research aims to bridge the gap between cutting-edge AI capabilities and thei
    style="color:#4169E1 !important; text-decoration:none !important; font-weight:bold;">
   BALANCED LATENT SPACE OF DIFFUSION MODELS FOR COUNTERFACTUAL GENERATION
 </a>
+
 
 
 Baohua Yan, **Qingyuan Liu**, Zhaobin Mo, Kangrui Ruan and Xuan Di<br>
@@ -148,9 +150,9 @@ Zhaobin Mo*, **Qingyuan Liu\***, Baohua Yan, Longxiang Zhang, and Xuan Di<br>
 </div>
 </div>
 
-## 🔍Other
 
-- <a href="https://www.spiedigitallibrary.org/conference-proceedings-of-spie/12303/2642855/Accurate-face-swap-using-cycleGAN/10.1117/12.2642855.short" style="text-decoration:none; color:#4169E1;">Accurate face swap using cycleGAN</a>, **Qingyuan Liu**, Yuxuan Zhou, and Shuai Bao, Proc. SPIE 12303, International Conference on Cloud Computing, Internet of Things, and Computer Applications (**CICA**), 2022
+
+<a href="https://www.spiedigitallibrary.org/conference-proceedings-of-spie/12303/2642855/Accurate-face-swap-using-cycleGAN/10.1117/12.2642855.short" style="text-decoration:none; color:#4169E1;">Accurate face swap using cycleGAN</a>, **Qingyuan Liu**, Yuxuan Zhou, and Shuai Bao, Proc. SPIE 12303, International Conference on Cloud Computing, Internet of Things, and Computer Applications (**CICA**), 2022
 
 
 
