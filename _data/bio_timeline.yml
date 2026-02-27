@@ -1,32 +1,73 @@
-- date_start: "2026-03"
-  date_end: ""
-  title: "M.S. / Research Track (예시)"
-  org: "Yonsei University"
-  location: "Seoul, KR"
+- date_start: "2023-09"
+  date_end: "2025-05"
+  title: "M.S. / Computer Engineering"
+  org: "Columbia University"
+  location: "New York, NY, USA"
   type: "education"
-  tags: ["Medical AI", "Continual Learning"]
+  tags: ["AI-Synthetic", "Controllaable Diffusion"]
   bullets:
-    - "Research on continual learning for medical imaging."
-    - "Built evaluation pipelines and curated datasets."
+    - '<a href="https://www.engineering.columbia.edu/about/news/turns-out-im-not-real-detecting-ai-generated-videos" target="_blank">Columbia Engineering Research Highlight</a>'
+    - '<a href="https://www.ee.columbia.edu/ms-ee-honors-program" target="_blank">2024 Spring MS Honors Students (Top 3)</a>'
+    - Advanced Master Research Student 
 
-- date_start: "2025-09"
-  date_end: "2026-02"
+- date_start: "2019-09"
+  date_end: "2023-07"
+  title: "B.E. / Computer Science and Technology"
+  org: "Huazhong University of Science and Technology"
+  location: "Wuhan, Hubei, China"
+  type: "education"
+  tags: ["Graph Neural Networks", "Operating Systems"]
+  bullets:
+    - '<a href="https://tianzhaohaha.github.io/uploads/CSXJ1901_U201911111_刘庆远_硬件综合训练课程设计报告.pdf" target="_blank">Microprocessor without Interlocked Pipeline Stages (MIPS) CPU Design</a>'
+    - '<a href="https://tianzhaohaha.github.io/uploads/面向终端用户的5G切片系统及策略研究_演示PPT.pptx" target="_blank">5G Network Slicing System (National Second Prize (Top 3% of 1006 teams worldwide) in China Collegiate Computing Contest.)</a>'
+
+- date_start: "2023-09"
+  date_end: "2025-05"
   title: "Research Assistant"
-  org: "Yonsei University Health System"
-  location: "Seoul, KR"
+  org: "Columbia University, Software Systems Lab"
+  location: "New York, NY, USA"
   type: "experience"
-  tags: ["Medical Informatics", "Deep Learning"]
+  tags: ["AI-Synthetic", "Agentic Frameworks"]
   bullets:
-    - "Developed models for multi-joint arthropathy grading."
-    - "Drafted manuscripts and prepared conference submissions."
+    - 'Developed deep learning (<a href="https://arxiv.org/abs/2406.09601" target="_blank">DIVID@CVPR GenAI''24</a>)/agentic framework (<a href="https://arxiv.org/abs/2502.14994v1" target="_blank">LAVID</a>) based methods for detecting AI-synthetic content.'
 
-- date_start: "2024-06"
-  date_end: "2024-12"
-  title: "Visiting / Program Participant"
-  org: "CMU AI Intensive Education Program"
-  location: "Pittsburgh, PA (Remote/On-site)"
+- date_start: "2023-09"
+  date_end: "2025-05"
+  title: "Research Assistant"
+  org: "Columbia University, DitecT Lab"
+  location: "New York, NY, USA"
   type: "experience"
-  tags: ["ML Systems", "Research"]
+  tags: ["Graph Neural Networks", "Controllaable Diffusion"]
   bullets:
-    - "Implemented project experiments and wrote weekly reports."
-    - "Collaborated with peers on model training and analysis."
+    - 'Designed models for spatiotemporal graph prediction. (<a href="https://arxiv.org/abs/2411.16142" target="_blank">CAL@ITSC''24</a>)'
+    - 'Developed diffusion methods for countertfactual generation (<a href="https://iclr.cc/virtual/2025/35305" target="_blank">BalancedGen@ICLR DeLTa''25</a>) and efficient generation (<a href="https://arxiv.org/abs/2512.17873" target="_blank">InSPECT</a>).'
+  
+- date_start: "2025-01"
+  date_end: ""
+  title: "Research Assistant"
+  org: "University of California, Los Angeles, NLP Lab"
+  location: "Los Angeles, CA, USA"
+  type: "experience"
+  tags: ["Model Editing", "Knowledge Mechanisms"]
+  bullets:
+    - 'Mitigated the side effect of model editing from angular perspectives. (<a href="https://arxiv.org/abs/2510.01172" target="_blank">SPHERE@ICLR''26, Top-1.1%</a>)'
+
+- date_start: "2025-05"
+  date_end: "2026-01"
+  title: "Research Assistant"
+  org: "University of California, Santa Cruz, VLAA LAB"
+  location: "Santa Cruz, CA, USA"
+  type: "experience"
+  tags: ["Foundation Models", "Medical Imaging"]
+  bullets:
+    - 'Developed large-scale vision foundation models for 3D brain MRI imaging, trained on 800+ public datasets with billions slices.'
+
+- date_start: "2021-04"
+  date_end: "2021-10"
+  title: "Research Assistant"
+  org: "School of Computing, National University of Singapore"
+  location: "Singapore"
+  type: "experience"
+  tags: ["Time Series Models", "Financial Applications"]
+  bullets:
+    - 'Developed a multi-factor spatio-temporal GNN to predict stock market trends.'

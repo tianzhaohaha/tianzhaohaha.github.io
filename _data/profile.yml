@@ -1,39 +1,36 @@
-primary_name: "Shiwon Kim"
+primary_name: "Qingyuan Liu"
 secondary_name: ""
-navbar_name: "Shiwon Kim"
+navbar_name: "Qingyuan Liu"
 
 positions:
 # - logo: /assets/images/badges/MIT_Social_circle.png  # Logo is optional
 #   name: Position 1 with logo
 - name: AI Researcher
-- name: <a href="https://yuhs.severance.healthcare/yuhs-en/index.do" target="_blank">Yonsei University Health System (YUHS)</a>
-- name: M.S. in Digital Analytics
+- name: <a href="https://www.columbia.edu/" target="_blank">Columbia University in the City of New York</a>
+- name: M.S. in Computer Engineering
 
 
-email: "shiwonkim.sean@gmail.com"
-cv_link: https://shiwonkim.github.io/uploads/CV_ShiwonKim_one_page.pdf
-gscholar: 2M8pQ4MAAAAJ  # This is an example, replace it with your own Google Scholar ID
-github: shiwonkim
-# twitter: your_twitter_id  # Do not include the '@' symbol
-linkedin: shiwon-kim-958462173
+email: "ql2505@columbia.edu"
+cv_link: https://tianzhaohaha.github.io/uploads/CV-QingyuanLiu.pdf
+gscholar: LQmy1bQAAAAJ  # This is an example, replace it with your own Google Scholar ID
+github: tianzhaohaha
+# twitter: QingyuanLiu1111  # Do not include the '@' symbol
+linkedin: qingyuan-liu-312966289
 # orcid: 0009-0007-8197-0816
 
 short_bio_text_justify: false
 short_bio: >-
   <p>
-    I am an AI researcher with primary interests in developing scalable and data-efficient learning systems, particularly for applications in medical imaging. 
-    My work focuses on learning from evolving and limited (scarce or privacy-sensitive) data conditions that are common in real-world scenarios but remain challenging for deep learning models. 
-    Learn more about my research <a href="https://shiwonkim.github.io/research">here</a>.
+    I am Qingyuan Liu (刘庆远), a research assistant at the <a href="https://nlp.ucla.edu/" target="_blank">UCLA NLP Lab</a>, advised by <a href="https://violetpeng.github.io/" target="_blank">Prof. Violet Peng</a>. 
+    Previously, I received my M.S. in Computer Engineering at <a href="https://www.columbia.edu/" target="_blank">Columbia University in the City of New York</a> in May 2025 and B.E. in Computer Science and Technology from <a href="https://www.hust.edu.cn/" target="_blank">Huazhong University of Science and Technology</a> in 2023.
+    I am working closely with <a href="https://jasonforjoy.github.io/" target="_blank">Jiachen Gu</a> and <a href="https://yyzcowtodd.cn/" target="_blank">Yunzhi Yao</a>.
   </p>
   <p>
-    Research keywords include: <span class="text-hl">continual learning</span>, <span class="text-hl">few-shot learning</span>, <span class="text-hl">medical imaging</span>, and so on.
+    I study knowledge mechanisms and editing for agentic systems, with a focus on how knowledge evolves and interacts within LLMs, and how to design effective methods for memory/reasoning manipulation.
+    Learn more about my research <a href="https://tianzhaohaha.github.io/research">here</a>.
   </p>
-  <div class="h6 mt-5">Brief Biography</div>
   <p>
-    I am currently a research assistant at the Medical Informatics Collaboration Unit (MCU) of <a href="https://yuhs.severance.healthcare/yuhs-en/index.do" target="_blank">Yonsei University Health System (YUHS)</a> in Seoul, Republic of Korea. 
-    Previously, I finished my M.S. in Digital Analytics at <a href="https://www.yonsei.ac.kr/sites/en_sc/index.do" target="_blank">Yonsei University</a> in August 2025, under the supervision of <a href="https://scholar.google.com/citations?user=DNs7sk4AAAAJ&hl=en" target="_blank">Prof. Yu Rang Park</a> at the <a href="https://www.dhlab.org/" target="_blank">Digital Healthcare Lab (DHLab)</a>. 
-    I received my B.B.A. in Business Administration from the same university in 2023. 
-    From August 2024 to February 2025, I was a visiting scholar at the <a href="https://www.cs.cmu.edu/" target="_blank">CMU School of Computer Science</a> as part of the <a href="https://www.msit.go.kr/eng/bbs/view.do?sCode=eng&mId=4&mPid=2&bbsSeqNo=42&nttSeqNo=697" target="_blank">Carnegie Mellon University Intensive AI Education Program</a> sponsored by the South Korean government.
+    Research keywords include: <span class="text-hl">lifelong learning</span>, <span class="text-hl">model editing</span>, <span class="text-hl">agentic systems</span>.
   </p>
 # <div class="bd-callout bd-callout-info bg-white shadow-sm">
 #   <i class="fas fa-info-circle" style="margin-right: 0.2em;"></i> 
@@ -41,24 +38,22 @@ short_bio: >-
 #   If you're looking for a motivated Ph.D. student or collaborator in this area, please feel free to reach out!
 # </div>
 
-portrait_url: /assets/images/photos/haleakala.jpeg
+portrait_url: /assets/images/photos/android-chrome-512x512.png
 # portrait_caption: >-
 #   Photo by Manja Vitolic on Unsplash (this caption is optional, comment it out to disable).
 
 education:
-- name: Yonsei University
-  logo: /assets/images/badges/Yonsei.png
+- name: Columbia University
+  logo: /assets/images/badges/CU.png
   position: >- 
-    M.S., Digital Analytics <a href="https://shiwonkim.github.io/uploads/Masters_Thesis.pdf" target="_blank">[Thesis]</a> <br/>
-  description:
-    Advised by Prof. Yu Rang Park
-  date: Mar. 2023 - Aug. 2025
-  place: Seoul, Korea
-- name: Yonsei University
-  logo: /assets/images/badges/Yonsei.png
-  position: B.B.A., Business Administration
-  date: Mar. 2017 - Feb. 2023
-  place: Seoul, Korea
+    M.S., Computer Engineering
+  date: Sep. 2023 - May 2025
+  place: New York, NY, USA
+- name: Huazhong University of Science and Technology
+  logo: /assets/images/badges/HUST.png
+  position: B.E., Computer Science and Technology
+  date: Sep. 2019 - Jul. 2023
+  place: Wuhan, Hubei, China
 
 experience:
 - name: Yonsei University Health System
