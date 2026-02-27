@@ -24,4 +24,5 @@ links:
   # Poster: 
   Code: https://github.com/PlusLabNLP/SPHERE
   EasyEdit: https://github.com/zjunlp/EasyEdit/tree/main/easyeditor/models/SPHERE
+  Project Page: https://www.qingyuanliu.net/sphere_projectpage/
 ---
