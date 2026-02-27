@@ -1,9 +1,9 @@
 ---
 title:          "Energy-Regularized Sequential Model Editing on Hyperspheres"
-date:           2026-02-01
+date:           2025-10-01
 selected:       true
 type:           publication
-tags:           ["# model editing", "# knowledge mechanisms", "# lifelong learning"]
+tags:           ["# Model Editing", "# Knowledge Mechanisms", "# Lifelong Learning"]
 pub:            "In The Fourteenth International Conference on Learning Representations (ICLR). 2026."
 # pub_pre:        "Submitted to "
 # pub_post:       'Under review.'
@@ -23,4 +23,5 @@ links:
   Paper: https://arxiv.org/abs/2510.01172
   # Poster: 
   Code: https://github.com/PlusLabNLP/SPHERE
+  EasyEdit: https://github.com/zjunlp/EasyEdit/tree/main/easyeditor/models/SPHERE
 ---

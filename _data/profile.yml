@@ -14,7 +14,7 @@ email: "ql2505@columbia.edu"
 cv_link: https://tianzhaohaha.github.io/uploads/CV-QingyuanLiu.pdf
 gscholar: LQmy1bQAAAAJ  # This is an example, replace it with your own Google Scholar ID
 github: tianzhaohaha
-# twitter: QingyuanLiu1111  # Do not include the '@' symbol
+twitter: QingyuanLiu1111  # Do not include the '@' symbol
 linkedin: qingyuan-liu-312966289
 # orcid: 0009-0007-8197-0816
 
@@ -26,7 +26,7 @@ short_bio: >-
     I am working closely with <a href="https://jasonforjoy.github.io/" target="_blank">Jiachen Gu</a> and <a href="https://yyzcowtodd.cn/" target="_blank">Yunzhi Yao</a>.
   </p>
   <p>
-    I study knowledge mechanisms and editing for agentic systems, with a focus on how knowledge evolves and interacts within LLMs, and how to design effective methods for memory/reasoning manipulation.
+    I study knowledge mechanisms and editing for agentic systems, with a focus on how knowledge evolves and interacts for LLMs, and how to design effective methods for memory/reasoning manipulation.
     Learn more about my research <a href="https://tianzhaohaha.github.io/research">here</a>.
   </p>
   <p>
@@ -48,12 +48,12 @@ education:
   position: >- 
     M.S., Computer Engineering
   date: Sep. 2023 - May 2025
-  place: New York, NY, USA
+  place: New York, USA
 - name: Huazhong University of Science and Technology
   logo: /assets/images/badges/HUST.png
   position: B.E., Computer Science and Technology
   date: Sep. 2019 - Jul. 2023
-  place: Wuhan, Hubei, China
+  place: Wuhan, China
 
 experience:
 - name: Yonsei University Health System

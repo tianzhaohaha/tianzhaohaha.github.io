@@ -30,16 +30,14 @@
                         </div>
                         <div class="text-profile-bio mt-3" {% if site.data.profile.short_bio_text_justify %}style="text-align: justify;"{% endif %}>
                             <p>
-                                Humans are naturally capable of learning throughout their lives without forgetting what they already know. They can also infer and comprehend new concepts from just a few, or even no examples. 
-                                However, deep neural networks lack such abilities, and typically require large-scale, static datasets.
+                                Large language models encode vast amounts of world knowledge, yet we lack a deep understanding of how this knowledge is stored, retrieved, and evolves over time. 
+                                Updating or correcting knowledge in deployed models also remains challenging without costly retraining.
                             </p>
                             <p>
-                                Many real-world applications involve data that is dynamically evolving, but sparse in nature. 
-                                For instance, patient data is continuously generated, but it may be limited in cases of rare diseases and difficult to share due to privacy concerns. 
-                                Motivated by this, I aim to build practical models that can reason and learn more like humans: 
-                                <span class="text-hl">learn incrementally</span>, 
-                                <span class="text-hl">generalize from restricted data</span>, and 
-                                <span class="text-hl">remain stable under distribution shifts</span>.
+                                My research focuses on knowledge mechanisms and editing for LLMs. 
+                                I aim to understand how knowledge interacts within these models and design post-training methods to manipulate
+                                <span class="text-hl">memory</span> and 
+                                <span class="text-hl">reasoning</span> for agentic systems, enabling models to evolve continuously while preserving their core capabilities.
                             </p>
                         </div>
                         <!-- {% if site.data.profile.cv_link %}
