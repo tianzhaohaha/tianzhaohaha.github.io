@@ -1,0 +1,32 @@
+- date_start: "2026-03"
+  date_end: ""
+  title: "M.S. / Research Track (예시)"
+  org: "Yonsei University"
+  location: "Seoul, KR"
+  type: "education"
+  tags: ["Medical AI", "Continual Learning"]
+  bullets:
+    - "Research on continual learning for medical imaging."
+    - "Built evaluation pipelines and curated datasets."
+
+- date_start: "2025-09"
+  date_end: "2026-02"
+  title: "Research Assistant"
+  org: "Yonsei University Health System"
+  location: "Seoul, KR"
+  type: "experience"
+  tags: ["Medical Informatics", "Deep Learning"]
+  bullets:
+    - "Developed models for multi-joint arthropathy grading."
+    - "Drafted manuscripts and prepared conference submissions."
+
+- date_start: "2024-06"
+  date_end: "2024-12"
+  title: "Visiting / Program Participant"
+  org: "CMU AI Intensive Education Program"
+  location: "Pittsburgh, PA (Remote/On-site)"
+  type: "experience"
+  tags: ["ML Systems", "Research"]
+  bullets:
+    - "Implemented project experiments and wrote weekly reports."
+    - "Collaborated with peers on model training and analysis."
