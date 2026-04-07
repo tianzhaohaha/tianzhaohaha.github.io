@@ -46,7 +46,7 @@ portrait_url: /assets/images/photos/android-chrome-512x512.png
 education:
 - name: Nanyang Technological University
   logo: /assets/images/badges/NTU.png
-  logo_size: 28px
+  # logo_size: 28px
   position: >- 
     Ph.D., College of Computing and Data Science
   date: Aug. 2026 - 
