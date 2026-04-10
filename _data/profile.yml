@@ -5,9 +5,9 @@ navbar_name: "Qingyuan Liu"
 positions:
 # - logo: /assets/images/badges/MIT_Social_circle.png  # Logo is optional
 #   name: Position 1 with logo
-- name: AI Researcher
-- name: <a href="https://www.columbia.edu/" target="_blank">Columbia University in the City of New York</a>
-- name: M.S. in Computer Engineering
+- name: AI Researcher (Ph.D.-ing)
+- name: <a href="https://www.ntu.edu.sg/" target="_blank">Nanyang Technological University</a>
+- name: Ph.D., College of Computing and Data Science
 
 
 email: "ql2505@columbia.edu"
@@ -21,8 +21,9 @@ twitter: QingyuanLiu1111  # Do not include the '@' symbol
 short_bio_text_justify: false
 short_bio: >-
   <p>
-    I am Qingyuan Liu (刘庆远), a research assistant at the <a href="https://nlp.ucla.edu/" target="_blank">UCLA NLP Lab</a>, advised by <a href="https://violetpeng.github.io/" target="_blank">Prof. Violet Peng</a>. 
-    Previously, I received my M.S. in Computer Engineering at <a href="https://www.columbia.edu/" target="_blank">Columbia University in the City of New York</a> in May 2025 and B.E. in Computer Science and Technology from <a href="https://www.hust.edu.cn/" target="_blank">Huazhong University of Science and Technology</a> in 2023.
+    I am Qingyuan Liu (刘庆远), an incoming Ph.D. student at the <a href="https://www.ntu.edu.sg/computing" target="_blank">College of Computing and Data Science</a>, <a href="https://www.ntu.edu.sg/" target="_blank">Nanyang Technological University</a>, advised by <a href="https://personal.ntu.edu.sg/wangwy/" target="_blank">Prof. Wenya Wang</a>.
+    Previously, I was a research assistant at the <a href="https://nlp.ucla.edu/" target="_blank">UCLA NLP Lab</a>, advised by <a href="https://violetpeng.github.io/" target="_blank">Prof. Violet Peng</a>. 
+    I received my M.S. in Computer Engineering at <a href="https://www.columbia.edu/" target="_blank">Columbia University in the City of New York</a> in May 2025 and B.E. in Computer Science and Technology from <a href="https://www.hust.edu.cn/" target="_blank">Huazhong University of Science and Technology</a> in 2023.
     I am working closely with <a href="https://jasonforjoy.github.io/" target="_blank">Jiachen Gu</a> and <a href="https://yyzcowtodd.cn/" target="_blank">Yunzhi Yao</a>.
   </p>
   <p>
@@ -46,6 +47,13 @@ portrait_url: /assets/images/photos/android-chrome-512x512.png
 #   Photo by Manja Vitolic on Unsplash (this caption is optional, comment it out to disable).
 
 education:
+- name: Nanyang Technological University
+  logo: /assets/images/badges/NTU.png
+  # logo_size: 28px
+  position: >- 
+    Ph.D., College of Computing and Data Science
+  date: Aug. 2026 - 
+  place: Singapore
 - name: Columbia University
   logo: /assets/images/badges/CU.png
   position: >- 
